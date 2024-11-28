@@ -1,338 +1,339 @@
-date,product_name,price,quantity,customer_age,payment_method,temperature,sales_hour,order_id
-2024-01-01,Pearl Milk Tea,6.5,2,25,cash,28,14:30,A001
-2024-01-01,Coffee,,1,22,credit,28,14:45,A002
-2024-01-01,Brown Sugar Milk Tea,7.0,2,invalid_age,credit,28,15:00,A003
-2024-01-01,Pearl Milk Tea,6.5,999,30,cash,28,15:15,A004
-2024-01-02,Fruit Tea,5.5,2,18,cash,29,13:00,A005
-2024-01-02,Pearl Milk Tea,6.5,-1,35,credit,29,13:30,A006
-2024-01-02,Coffee,7.0,1,,credit,29,14:00,A007
-2024-01-02,Brown Sugar Milk Tea,7.0,2,42,credit,29,14:30,A008
-2024-01-03,Fruit Tea,5.5,2,15,cash,25,16:00,A009
-2024-01-03,Pearl Milk Tea,6.5,1,28,credit,25,16:30,A010
-2024-01-03,Coffee,7.0,2,31,credit,25,17:00,A011
-2024-01-03,Fruit Tea,5.5,2,29,cash,25,17:30,A012
-2024-01-04,Pearl Milk Tea,5.75,3,51,credit,33,10:00,A013
-2024-01-04,Coffee,7.12,4,27,cash,33,15:15,A014
-2024-01-04,Pearl Milk Tea,7.2,5,38,credit,31,19:45,A015
-2024-01-04,Coffee,7.65,5,26,credit,35,14:00,A016
-2024-01-04,Fruit Tea,6.71,4,23,credit,28,15:45,A017
-2024-01-04,Pearl Milk Tea,6.19,5,48,credit,26,10:45,A018
-2024-01-04,Fruit Tea,6.11,2,52,credit,29,11:00,A019
-2024-01-04,Coffee,6.71,1,43,credit,25,17:15,A020
-2024-01-04,Brown Sugar Milk Tea,6.4,5,36,credit,29,17:45,A021
-2024-01-04,Fruit Tea,6.3,3,22,credit,30,12:00,A022
-2024-01-05,Pearl Milk Tea,7.99,1,43,cash,33,21:00,A023
-2024-01-05,Fruit Tea,6.51,5,54,cash,29,14:00,A024
-2024-01-05,Fruit Tea,6.45,3,51,credit,26,14:15,A025
-2024-01-05,Pearl Milk Tea,5.89,2,52,cash,25,10:30,A026
-2024-01-06,Fruit Tea,5.65,5,24,credit,25,21:00,A027
-2024-01-06,Coffee,5.34,3,19,credit,34,13:45,A028
-2024-01-06,Brown Sugar Milk Tea,7.87,3,60,credit,27,15:15,A029
-2024-01-06,Fruit Tea,6.35,3,38,cash,31,14:30,A030
-2024-01-06,Coffee,6.87,3,36,credit,25,15:30,A031
-2024-01-06,Fruit Tea,5.1,5,21,credit,32,10:15,A032
-2024-01-06,Pearl Milk Tea,6.48,5,49,credit,26,14:00,A033
-2024-01-06,Coffee,6.91,5,59,cash,26,17:30,A034
-2024-01-06,Fruit Tea,7.1,3,17,cash,26,11:45,A035
-2024-01-06,Fruit Tea,6.26,1,49,credit,26,11:30,A036
-2024-01-07,Pearl Milk Tea,7.26,3,21,cash,35,15:45,A037
-2024-01-07,Pearl Milk Tea,6.6,2,37,credit,25,20:45,A038
-2024-01-07,Fruit Tea,5.64,3,35,credit,30,12:15,A039
-2024-01-07,Coffee,5.56,4,39,cash,29,21:00,A040
-2024-01-07,Pearl Milk Tea,6.32,1,19,cash,28,10:45,A041
-2024-01-07,Pearl Milk Tea,7.55,2,35,cash,30,16:45,A042
-2024-01-07,Fruit Tea,6.68,5,39,credit,31,11:00,A043
-2024-01-08,Pearl Milk Tea,6.81,1,50,cash,27,11:45,A044
-2024-01-08,Fruit Tea,5.0,2,34,cash,29,11:15,A045
-2024-01-08,Pearl Milk Tea,5.55,5,34,credit,30,19:45,A046
-2024-01-09,Fruit Tea,7.95,5,21,credit,34,19:30,A047
-2024-01-09,Fruit Tea,5.68,3,59,credit,31,14:00,A048
-2024-01-09,Fruit Tea,7.61,5,19,credit,28,14:45,A049
-2024-01-09,Pearl Milk Tea,7.28,4,27,credit,30,17:30,A050
-2024-01-10,Fruit Tea,6.87,5,31,credit,31,13:15,A051
-2024-01-10,Pearl Milk Tea,5.27,5,60,credit,31,17:00,A052
-2024-01-10,Brown Sugar Milk Tea,5.69,3,54,cash,25,11:15,A053
-2024-01-10,Brown Sugar Milk Tea,6.04,3,24,cash,25,12:00,A054
-2024-01-10,Pearl Milk Tea,6.87,5,35,cash,33,21:00,A055
-2024-01-10,Fruit Tea,5.86,1,55,cash,30,17:15,A056
-2024-01-10,Fruit Tea,5.02,3,57,cash,30,11:15,A057
-2024-01-10,Fruit Tea,5.94,4,30,cash,31,17:45,A058
-2024-01-11,Fruit Tea,5.47,3,28,credit,30,19:30,A059
-2024-01-11,Fruit Tea,5.72,5,37,credit,29,11:15,A060
-2024-01-11,Fruit Tea,7.37,4,47,cash,31,19:15,A061
-2024-01-11,Fruit Tea,7.22,1,33,credit,26,17:45,A062
-2024-01-11,Brown Sugar Milk Tea,7.11,3,50,credit,31,11:45,A063
-2024-01-12,Brown Sugar Milk Tea,6.37,3,20,credit,28,11:15,A064
-2024-01-13,Brown Sugar Milk Tea,7.46,5,40,cash,35,21:00,A065
-2024-01-13,Coffee,7.43,2,28,credit,34,15:30,A066
-2024-01-13,Brown Sugar Milk Tea,5.65,5,44,credit,31,19:15,A067
-2024-01-13,Brown Sugar Milk Tea,7.45,3,46,cash,33,14:00,A068
-2024-01-13,Fruit Tea,7.21,3,43,credit,35,13:45,A069
-2024-01-14,Fruit Tea,7.4,1,56,credit,35,12:15,A070
-2024-01-14,Coffee,6.0,1,51,cash,32,11:45,A071
-2024-01-14,Pearl Milk Tea,5.16,3,34,cash,31,10:15,A072
-2024-01-14,Pearl Milk Tea,6.89,3,38,credit,33,19:15,A073
-2024-01-14,Brown Sugar Milk Tea,8.0,3,21,credit,28,12:15,A074
-2024-01-15,Coffee,5.57,4,32,credit,35,11:00,A075
-2024-01-15,Pearl Milk Tea,6.74,5,33,credit,27,16:30,A076
-2024-01-15,Pearl Milk Tea,7.92,4,50,credit,27,13:15,A077
-2024-01-15,Brown Sugar Milk Tea,5.87,2,18,credit,30,16:00,A078
-2024-01-16,Coffee,6.09,2,33,cash,25,14:00,A079
-2024-01-16,Coffee,7.66,1,21,credit,30,14:45,A080
-2024-01-16,Fruit Tea,7.7,2,27,cash,27,11:45,A081
-2024-01-16,Brown Sugar Milk Tea,6.34,4,59,credit,32,11:00,A082
-2024-01-16,Fruit Tea,5.52,3,51,credit,33,11:45,A083
-2024-01-17,Brown Sugar Milk Tea,5.05,3,35,cash,27,17:45,A084
-2024-01-17,Brown Sugar Milk Tea,6.22,1,59,cash,27,17:15,A085
-2024-01-17,Pearl Milk Tea,7.34,5,43,credit,27,12:30,A086
-2024-01-17,Fruit Tea,7.06,1,36,credit,26,17:00,A087
-2024-01-17,Coffee,7.52,5,60,credit,35,16:45,A088
-2024-01-17,Fruit Tea,6.45,4,36,credit,32,10:30,A089
-2024-01-17,Pearl Milk Tea,6.07,1,28,credit,26,13:15,A090
-2024-01-17,Fruit Tea,7.53,3,26,credit,33,11:00,A091
-2024-01-17,Pearl Milk Tea,6.6,1,47,cash,34,11:45,A092
-2024-01-17,Pearl Milk Tea,7.87,2,29,credit,35,12:15,A093
-2024-01-18,Coffee,6.34,5,40,credit,28,17:15,A094
-2024-01-18,Brown Sugar Milk Tea,5.36,4,44,credit,32,21:45,A095
-2024-01-18,Coffee,6.79,1,30,cash,28,17:45,A096
-2024-01-18,Pearl Milk Tea,6.41,1,53,credit,35,10:00,A097
-2024-01-19,Brown Sugar Milk Tea,6.6,5,53,credit,34,21:30,A098
-2024-01-19,Pearl Milk Tea,6.39,2,28,credit,29,10:00,A099
-2024-01-19,Fruit Tea,7.46,2,21,cash,32,15:30,A100
-2024-01-19,Brown Sugar Milk Tea,7.96,5,54,credit,27,12:15,A101
-2024-01-19,Pearl Milk Tea,6.34,5,51,credit,27,20:45,A102
-2024-01-19,Brown Sugar Milk Tea,6.1,1,41,credit,32,14:45,A103
-2024-01-19,Fruit Tea,5.13,2,56,cash,26,13:30,A104
-2024-01-20,Coffee,5.36,2,28,cash,32,12:30,A105
-2024-01-20,Fruit Tea,6.77,2,32,credit,31,14:00,A106
-2024-01-20,Brown Sugar Milk Tea,5.61,5,29,credit,28,11:15,A107
-2024-01-21,Fruit Tea,6.51,3,19,credit,25,10:00,A108
-2024-01-21,Pearl Milk Tea,7.46,4,34,cash,26,21:00,A109
-2024-01-21,Brown Sugar Milk Tea,5.12,4,22,credit,30,18:30,A110
-2024-01-21,Fruit Tea,5.41,2,30,credit,33,10:45,A111
-2024-01-21,Brown Sugar Milk Tea,6.06,1,58,credit,34,20:00,A112
-2024-01-21,Coffee,5.31,3,34,cash,34,16:15,A113
-2024-01-21,Fruit Tea,5.19,5,24,credit,25,16:00,A114
-2024-01-22,Fruit Tea,5.42,1,51,credit,25,16:45,A115
-2024-01-22,Brown Sugar Milk Tea,5.29,1,18,credit,25,18:00,A116
-2024-01-22,Fruit Tea,5.84,3,51,credit,31,21:45,A117
-2024-01-22,Brown Sugar Milk Tea,5.17,5,43,credit,29,21:15,A118
-2024-01-22,Pearl Milk Tea,5.38,2,28,credit,30,12:45,A119
-2024-01-22,Brown Sugar Milk Tea,5.81,5,44,cash,32,13:15,A120
-2024-01-22,Coffee,7.95,5,17,credit,30,17:30,A121
-2024-01-22,Fruit Tea,6.22,5,33,credit,32,15:15,A122
-2024-01-23,Brown Sugar Milk Tea,5.04,1,30,cash,27,18:15,A123
-2024-01-23,Pearl Milk Tea,5.8,1,56,credit,31,15:30,A124
-2024-01-23,Brown Sugar Milk Tea,6.31,2,42,credit,30,18:15,A125
-2024-01-23,Pearl Milk Tea,5.19,1,24,cash,34,17:00,A126
-2024-01-23,Brown Sugar Milk Tea,5.86,4,25,cash,27,12:30,A127
-2024-01-23,Coffee,5.88,2,39,cash,31,10:15,A128
-2024-01-23,Fruit Tea,5.2,2,55,credit,32,11:00,A129
-2024-01-23,Fruit Tea,5.26,1,57,cash,32,20:00,A130
-2024-01-23,Brown Sugar Milk Tea,6.54,5,44,cash,27,19:15,A131
-2024-01-23,Coffee,5.27,5,55,credit,28,17:00,A132
-2024-01-24,Pearl Milk Tea,7.91,4,28,credit,34,16:30,A133
-2024-01-24,Brown Sugar Milk Tea,5.5,4,55,credit,33,17:45,A134
-2024-01-24,Coffee,5.86,3,30,credit,35,21:30,A135
-2024-01-24,Coffee,6.58,4,17,credit,28,12:15,A136
-2024-01-24,Fruit Tea,6.21,4,23,credit,33,19:45,A137
-2024-01-25,Brown Sugar Milk Tea,5.21,5,46,credit,33,18:15,A138
-2024-01-25,Fruit Tea,6.8,1,19,credit,34,14:45,A139
-2024-01-25,Coffee,5.17,2,27,cash,25,17:45,A140
-2024-01-25,Coffee,5.24,2,55,cash,27,17:30,A141
-2024-01-25,Fruit Tea,5.09,5,21,cash,29,20:00,A142
-2024-01-25,Brown Sugar Milk Tea,6.99,1,26,credit,27,19:45,A143
-2024-01-25,Fruit Tea,5.56,2,39,cash,27,16:45,A144
-2024-01-25,Coffee,5.14,3,22,credit,32,20:45,A145
-2024-01-25,Coffee,7.68,1,21,credit,30,14:15,A146
-2024-01-25,Fruit Tea,6.8,4,59,cash,26,13:15,A147
-2024-01-26,Fruit Tea,5.03,5,22,cash,28,13:15,A148
-2024-01-27,Brown Sugar Milk Tea,7.43,3,25,cash,29,20:30,A149
-2024-01-27,Fruit Tea,6.52,3,26,cash,31,15:15,A150
-2024-01-27,Pearl Milk Tea,7.3,4,40,credit,26,11:15,A151
-2024-01-27,Coffee,6.15,5,43,cash,31,15:30,A152
-2024-01-27,Pearl Milk Tea,5.14,5,51,cash,35,10:15,A153
-2024-01-27,Fruit Tea,7.03,4,24,credit,31,13:00,A154
-2024-01-27,Fruit Tea,6.04,4,30,cash,33,21:00,A155
-2024-01-28,Pearl Milk Tea,7.31,5,33,credit,33,13:30,A156
-2024-01-28,Pearl Milk Tea,7.66,5,45,cash,29,14:30,A157
-2024-01-28,Fruit Tea,6.77,4,41,credit,34,19:45,A158
-2024-01-28,Coffee,7.99,3,25,credit,30,11:00,A159
-2024-01-28,Pearl Milk Tea,7.84,2,37,credit,35,18:45,A160
-2024-01-28,Fruit Tea,6.4,1,59,credit,33,15:00,A161
-2024-01-28,Fruit Tea,7.63,4,27,credit,26,13:15,A162
-2024-01-28,Coffee,5.34,4,57,credit,30,20:15,A163
-2024-01-28,Fruit Tea,6.56,5,53,credit,33,10:30,A164
-2024-01-29,Fruit Tea,6.27,2,49,credit,33,17:30,A165
-2024-01-30,Pearl Milk Tea,5.01,5,56,cash,27,14:15,A166
-2024-01-30,Coffee,6.32,5,48,credit,34,16:00,A167
-2024-01-30,Pearl Milk Tea,7.69,3,41,credit,28,10:45,A168
-2024-01-30,Pearl Milk Tea,5.26,4,45,cash,32,11:00,A169
-2024-01-30,Fruit Tea,6.96,2,41,credit,32,11:00,A170
-2024-01-30,Coffee,7.22,1,51,credit,26,18:30,A171
-2024-01-31,Brown Sugar Milk Tea,5.5,3,36,credit,31,15:45,A172
-2024-01-31,Coffee,7.18,5,26,credit,27,16:15,A173
-2024-01-31,Coffee,6.49,3,56,credit,32,20:45,A174
-2024-01-31,Fruit Tea,7.97,5,35,credit,26,18:30,A175
-2024-01-31,Fruit Tea,5.94,3,48,cash,25,17:15,A176
-2024-01-31,Fruit Tea,5.75,1,55,cash,35,19:00,A177
-2024-01-31,Fruit Tea,5.08,4,19,credit,27,11:45,A178
-2024-02-01,Coffee,6.54,3,37,credit,27,15:00,A179
-2024-02-01,Pearl Milk Tea,6.29,5,48,cash,34,11:30,A180
-2024-02-01,Fruit Tea,6.44,2,34,cash,30,18:30,A181
-2024-02-01,Fruit Tea,6.25,2,19,credit,31,12:30,A182
-2024-02-01,Brown Sugar Milk Tea,6.48,2,17,cash,34,21:15,A183
-2024-02-01,Coffee,6.67,4,52,credit,35,17:30,A184
-2024-02-01,Coffee,7.51,5,41,cash,33,17:45,A185
-2024-02-01,Coffee,6.99,2,31,credit,29,12:45,A186
-2024-02-01,Pearl Milk Tea,6.89,3,43,credit,31,16:30,A187
-2024-02-01,Fruit Tea,6.24,1,20,cash,27,16:00,A188
-2024-02-02,Coffee,7.3,4,42,cash,28,15:45,A189
-2024-02-02,Brown Sugar Milk Tea,5.02,4,26,credit,26,20:45,A190
-2024-02-02,Coffee,7.21,4,18,cash,35,18:15,A191
-2024-02-02,Coffee,7.93,5,54,credit,34,15:15,A192
-2024-02-02,Fruit Tea,5.43,5,26,cash,29,21:45,A193
-2024-02-02,Fruit Tea,7.65,1,42,cash,32,11:15,A194
-2024-02-02,Fruit Tea,5.65,1,23,cash,30,11:45,A195
-2024-02-02,Coffee,7.59,1,57,credit,27,16:15,A196
-2024-02-02,Brown Sugar Milk Tea,5.63,1,42,credit,35,10:45,A197
-2024-02-02,Fruit Tea,6.61,4,55,credit,34,15:45,A198
-2024-02-03,Pearl Milk Tea,5.47,3,54,credit,31,10:45,A199
-2024-02-03,Fruit Tea,7.59,4,21,cash,31,10:30,A200
-2024-02-03,Pearl Milk Tea,6.98,4,29,credit,34,12:45,A201
-2024-02-03,Fruit Tea,6.1,3,25,cash,31,17:30,A202
-2024-02-03,Pearl Milk Tea,7.27,4,23,cash,32,11:45,A203
-2024-02-03,Fruit Tea,5.36,1,36,credit,28,12:00,A204
-2024-02-04,Coffee,7.28,3,40,cash,33,20:30,A205
-2024-02-04,Fruit Tea,5.6,1,16,cash,34,15:30,A206
-2024-02-04,Coffee,5.63,3,22,credit,34,15:15,A207
-2024-02-04,Fruit Tea,7.58,2,21,cash,26,20:45,A208
-2024-02-05,Coffee,7.9,3,36,cash,33,19:30,A209
-2024-02-05,Fruit Tea,7.61,4,44,cash,30,16:30,A210
-2024-02-05,Brown Sugar Milk Tea,5.78,2,56,credit,30,18:45,A211
-2024-02-05,Pearl Milk Tea,7.93,5,17,credit,25,10:15,A212
-2024-02-05,Fruit Tea,7.3,2,16,credit,32,20:45,A213
-2024-02-05,Coffee,7.21,2,37,credit,31,11:00,A214
-2024-02-05,Fruit Tea,7.79,1,60,credit,30,12:45,A215
-2024-02-05,Fruit Tea,6.0,1,41,credit,28,17:30,A216
-2024-02-06,Pearl Milk Tea,7.42,5,52,credit,32,12:45,A217
-2024-02-06,Fruit Tea,7.63,3,19,cash,25,18:15,A218
-2024-02-07,Brown Sugar Milk Tea,5.03,2,53,cash,34,13:30,A219
-2024-02-07,Fruit Tea,7.65,1,27,credit,33,21:00,A220
-2024-02-07,Fruit Tea,7.57,3,35,credit,34,21:15,A221
-2024-02-07,Fruit Tea,5.82,4,48,credit,25,12:30,A222
-2024-02-07,Pearl Milk Tea,5.65,5,17,credit,25,18:00,A223
-2024-02-07,Fruit Tea,6.68,3,33,credit,29,21:00,A224
-2024-02-07,Fruit Tea,7.12,4,52,credit,26,13:15,A225
-2024-02-07,Brown Sugar Milk Tea,6.71,5,53,cash,31,11:15,A226
-2024-02-08,Fruit Tea,5.82,3,36,credit,31,11:15,A227
-2024-02-09,Fruit Tea,6.98,5,58,cash,32,21:30,A228
-2024-02-09,Pearl Milk Tea,7.48,4,24,credit,35,12:00,A229
-2024-02-09,Pearl Milk Tea,7.98,4,51,cash,33,10:00,A230
-2024-02-10,Fruit Tea,5.51,3,42,credit,35,12:30,A231
-2024-02-10,Fruit Tea,7.11,3,56,credit,27,16:45,A232
-2024-02-11,Fruit Tea,7.63,3,22,cash,34,12:45,A233
-2024-02-12,Fruit Tea,6.91,5,41,credit,31,21:00,A234
-2024-02-12,Fruit Tea,6.19,1,23,credit,35,18:15,A235
-2024-02-12,Fruit Tea,7.42,3,20,credit,33,12:30,A236
-2024-02-12,Fruit Tea,7.56,5,19,cash,25,19:00,A237
-2024-02-12,Fruit Tea,5.9,2,31,credit,32,14:00,A238
-2024-02-12,Brown Sugar Milk Tea,5.73,1,29,credit,25,18:15,A239
-2024-02-12,Brown Sugar Milk Tea,6.32,4,28,credit,28,15:00,A240
-2024-02-12,Fruit Tea,5.19,1,18,credit,30,15:45,A241
-2024-02-13,Fruit Tea,7.47,1,17,cash,30,17:00,A242
-2024-02-13,Pearl Milk Tea,6.49,4,24,cash,30,20:00,A243
-2024-02-13,Coffee,6.76,4,39,credit,32,14:30,A244
-2024-02-13,Pearl Milk Tea,7.61,5,27,cash,33,19:45,A245
-2024-02-13,Coffee,6.37,3,43,cash,28,14:30,A246
-2024-02-14,Fruit Tea,7.66,4,31,credit,34,19:45,A247
-2024-02-14,Fruit Tea,5.11,4,23,credit,28,16:00,A248
-2024-02-14,Pearl Milk Tea,7.2,1,36,credit,34,17:00,A249
-2024-02-14,Coffee,6.66,2,42,cash,28,11:45,A250
-2024-02-14,Fruit Tea,6.55,4,58,credit,35,11:45,A251
-2024-02-14,Brown Sugar Milk Tea,5.68,3,56,credit,32,21:45,A252
-2024-02-15,Fruit Tea,5.39,1,21,credit,31,21:45,A253
-2024-02-15,Fruit Tea,7.55,5,44,credit,26,21:00,A254
-2024-02-15,Brown Sugar Milk Tea,5.39,1,28,credit,35,19:00,A255
-2024-02-15,Brown Sugar Milk Tea,7.38,4,37,credit,34,19:15,A256
-2024-02-15,Coffee,6.53,2,49,cash,25,19:30,A257
-2024-02-15,Fruit Tea,7.64,2,53,credit,27,10:00,A258
-2024-02-15,Brown Sugar Milk Tea,6.37,1,31,credit,25,16:30,A259
-2024-02-15,Pearl Milk Tea,5.03,2,26,credit,28,18:45,A260
-2024-02-16,Fruit Tea,7.93,2,41,cash,27,12:00,A261
-2024-02-16,Fruit Tea,5.25,4,45,credit,28,20:30,A262
-2024-02-17,Coffee,5.02,1,56,credit,28,14:30,A263
-2024-02-17,Fruit Tea,6.56,5,23,credit,29,10:15,A264
-2024-02-17,Coffee,7.38,1,25,credit,27,19:45,A265
-2024-02-17,Pearl Milk Tea,5.93,1,22,cash,33,12:15,A266
-2024-02-18,Coffee,7.44,5,32,cash,25,17:45,A267
-2024-02-19,Coffee,6.63,5,47,credit,27,16:15,A268
-2024-02-19,Coffee,7.25,2,30,credit,33,21:45,A269
-2024-02-19,Coffee,5.7,3,22,credit,32,11:00,A270
-2024-02-19,Fruit Tea,7.18,5,19,credit,28,18:30,A271
-2024-02-20,Fruit Tea,7.27,4,30,cash,32,16:45,A272
-2024-02-20,Fruit Tea,7.63,2,20,credit,30,20:00,A273
-2024-02-20,Fruit Tea,7.24,1,36,cash,33,19:00,A274
-2024-02-20,Pearl Milk Tea,7.14,2,36,credit,33,10:15,A275
-2024-02-20,Fruit Tea,6.32,5,48,credit,30,18:45,A276
-2024-02-21,Fruit Tea,5.15,3,52,credit,34,11:30,A277
-2024-02-21,Fruit Tea,5.17,1,18,cash,34,12:15,A278
-2024-02-21,Coffee,7.3,3,48,cash,29,19:00,A279
-2024-02-21,Fruit Tea,7.91,3,30,cash,25,16:30,A280
-2024-02-21,Fruit Tea,5.65,4,48,credit,34,15:45,A281
-2024-02-21,Pearl Milk Tea,5.52,1,31,credit,33,11:45,A282
-2024-02-22,Fruit Tea,5.89,2,41,credit,28,18:30,A283
-2024-02-22,Pearl Milk Tea,6.67,4,41,cash,29,20:30,A284
-2024-02-22,Brown Sugar Milk Tea,7.0,5,42,credit,35,13:15,A285
-2024-02-22,Coffee,7.73,5,16,cash,35,15:00,A286
-2024-02-22,Fruit Tea,6.42,4,48,cash,29,20:00,A287
-2024-02-23,Pearl Milk Tea,5.56,5,37,credit,34,10:00,A288
-2024-02-23,Coffee,7.12,5,59,cash,25,18:15,A289
-2024-02-23,Fruit Tea,6.35,5,21,credit,27,10:45,A290
-2024-02-23,Coffee,7.93,2,54,credit,28,11:00,A291
-2024-02-23,Fruit Tea,7.3,1,25,cash,32,13:30,A292
-2024-02-23,Pearl Milk Tea,6.51,1,53,cash,25,16:00,A293
-2024-02-23,Fruit Tea,5.6,3,28,credit,34,14:30,A294
-2024-02-23,Brown Sugar Milk Tea,6.37,2,43,credit,30,15:00,A295
-2024-02-23,Pearl Milk Tea,7.73,2,45,credit,31,10:15,A296
-2024-02-23,Coffee,6.47,1,21,cash,27,16:15,A297
-2024-02-24,Pearl Milk Tea,5.5,3,60,credit,27,15:30,A298
-2024-02-24,Fruit Tea,6.59,4,33,credit,25,21:00,A299
-2024-02-24,Coffee,6.28,5,35,credit,34,16:15,A300
-2024-02-24,Fruit Tea,6.21,1,60,credit,25,11:45,A301
-2024-02-24,Brown Sugar Milk Tea,5.09,4,43,credit,32,14:45,A302
-2024-02-24,Coffee,5.36,3,35,credit,27,12:15,A303
-2024-02-25,Pearl Milk Tea,6.37,5,59,credit,33,12:00,A304
-2024-02-25,Brown Sugar Milk Tea,6.74,5,35,cash,33,16:30,A305
-2024-02-25,Fruit Tea,6.68,4,40,cash,30,15:00,A306
-2024-02-25,Coffee,5.09,4,26,credit,28,20:45,A307
-2024-02-25,Brown Sugar Milk Tea,6.7,5,18,credit,26,18:45,A308
-2024-02-25,Fruit Tea,7.06,1,48,cash,29,12:00,A309
-2024-02-25,Brown Sugar Milk Tea,5.86,3,43,credit,32,15:15,A310
-2024-02-25,Fruit Tea,6.2,5,37,cash,26,12:30,A311
-2024-02-25,Brown Sugar Milk Tea,5.08,1,43,credit,26,19:45,A312
-2024-02-26,Brown Sugar Milk Tea,5.25,5,17,credit,35,14:30,A313
-2024-02-26,Fruit Tea,5.75,2,45,cash,26,10:45,A314
-2024-02-26,Fruit Tea,7.55,3,59,cash,30,21:30,A315
-2024-02-26,Fruit Tea,7.67,4,37,credit,27,10:30,A316
-2024-02-26,Fruit Tea,5.2,3,46,credit,31,13:45,A317
-2024-02-26,Pearl Milk Tea,5.64,5,32,credit,33,12:30,A318
-2024-02-26,Fruit Tea,6.36,4,37,credit,28,18:30,A319
-2024-02-26,Brown Sugar Milk Tea,6.74,5,24,cash,28,11:15,A320
-2024-02-26,Coffee,7.48,3,42,credit,31,14:45,A321
-2024-02-27,Pearl Milk Tea,7.11,2,43,credit,30,12:00,A322
-2024-02-27,Fruit Tea,5.32,3,42,credit,28,11:00,A323
-2024-02-27,Coffee,6.03,4,53,cash,26,14:30,A324
-2024-02-27,Fruit Tea,6.27,1,19,credit,35,10:00,A325
-2024-02-27,Fruit Tea,5.72,5,54,credit,29,15:30,A326
-2024-02-27,Pearl Milk Tea,6.9,5,32,credit,29,12:00,A327
-2024-02-27,Fruit Tea,5.74,5,26,credit,35,10:45,A328
-2024-02-28,Coffee,5.4,2,32,credit,32,16:30,A329
-2024-02-28,Coffee,5.77,4,57,cash,25,14:00,A330
-2024-02-28,Coffee,5.95,3,43,credit,33,21:15,A331
-2024-02-28,Pearl Milk Tea,5.01,5,17,credit,32,16:45,A332
-2024-02-28,Fruit Tea,6.83,3,20,credit,31,15:45,A333
-2024-02-28,Fruit Tea,6.79,4,38,credit,32,10:45,A334
-2024-02-28,Fruit Tea,6.96,5,60,cash,25,21:15,A335
-2024-02-28,Pearl Milk Tea,5.03,2,37,cash,31,18:15,A336
-2024-02-29,Brown Sugar Milk Tea,7.22,1,59,credit,31,10:30,A337
+order_id,date,product_name,price,quantity,customer_age,payment_method,temperature,sales_hour
+A001,2024-01-01,Pearl Milk Tea,6.5,2,25,cash,28,14:30
+A002,2024-01-01,Coffee,,1,22,credit,28,14:45
+A003,2024-01-01,Brown Sugar Milk Tea,7,2,invalid_age,credit,28,15:00
+A004,2024-01-01,Pearl Milk Tea,6.5,999,30,cash,28,15:15
+A005,2024-01-02,Fruit Tea,5.5,2,18,cash,29,13:00
+A006,2024-01-02,Pearl Milk Tea,6.5,-1,35,credit,29,13:30
+A007,2024-01-02,Coffee,7,1,,credit,29,14:00
+A008,2024-01-02,Brown Sugar Milk Tea,7,2,42,credit,29,14:30
+A009,2024-01-03,Fruit Tea,5.5,2,15,cash,25,16:00
+A010,2024-01-03,Pearl Milk Tea,6.5,1,28,credit,25,16:30
+A011,2024-01-03,Coffee,7,2,31,credit,25,17:00
+A012,2024-01-03,Fruit Tea,5.5,2,29,cash,25,17:30
+A013,2024-01-04,Pearl Milk Tea,5.75,3,51,credit,33,10:00
+A014,2024-01-04,Coffee,7.12,4,27,cash,33,15:15
+A015,2024-01-04,Pearl Milk Tea,7.2,5,38,credit,31,19:45
+A016,2024-01-04,Coffee,7.65,5,26,credit,35,14:00
+A017,2024-01-04,Fruit Tea,6.71,4,23,credit,28,15:45
+A018,2024-01-04,Pearl Milk Tea,6.19,5,48,credit,26,10:45
+A019,2024-01-04,Fruit Tea,6.11,2,52,credit,29,11:00
+A020,2024-01-04,Coffee,6.71,1,43,credit,25,17:15
+A021,2024-01-04,Brown Sugar Milk Tea,6.4,5,36,credit,29,17:45
+A022,2024-01-04,Fruit Tea,6.3,3,22,credit,30,12:00
+A023,2024-01-05,Pearl Milk Tea,7.99,1,43,cash,33,21:00
+A024,2024-01-05,Fruit Tea,6.51,5,54,cash,29,14:00
+A025,2024-01-05,Fruit Tea,6.45,3,51,credit,26,14:15
+A026,2024-01-05,Pearl Milk Tea,5.89,2,52,cash,25,10:30
+A027,2024-01-06,Fruit Tea,5.65,5,24,credit,25,21:00
+A028,2024-01-06,Coffee,5.34,3,19,credit,34,13:45
+A029,2024-01-06,Brown Sugar Milk Tea,7.87,3,60,credit,27,15:15
+A030,2024-01-06,Fruit Tea,6.35,3,38,cash,31,14:30
+A031,2024-01-06,Coffee,6.87,3,36,credit,25,15:30
+A032,2024-01-06,Fruit Tea,5.1,5,21,credit,32,10:15
+A033,2024-01-06,Pearl Milk Tea,6.48,5,49,credit,26,14:00
+A034,2024-01-06,Coffee,6.91,5,59,cash,26,17:30
+A035,2024-01-06,Fruit Tea,7.1,3,17,cash,26,11:45
+A036,2024-01-06,Fruit Tea,6.26,1,49,credit,26,11:30
+A037,2024-01-07,Pearl Milk Tea,7.26,3,21,cash,35,15:45
+A038,2024-01-07,Pearl Milk Tea,6.6,2,37,credit,25,20:45
+A039,2024-01-07,Fruit Tea,5.64,3,35,credit,30,12:15
+A040,2024-01-07,Coffee,5.56,4,39,cash,29,21:00
+A041,2024-01-07,Pearl Milk Tea,6.32,1,19,cash,28,10:45
+A042,2024-01-07,Pearl Milk Tea,7.55,2,35,cash,30,16:45
+A043,2024-01-07,Fruit Tea,6.68,5,39,credit,31,11:00
+A044,2024-01-08,Pearl Milk Tea,6.81,1,50,cash,27,11:45
+A045,2024-01-08,Fruit Tea,5,2,34,cash,29,11:15
+A046,2024-01-08,Pearl Milk Tea,5.55,5,34,credit,30,19:45
+A047,2024-01-09,Fruit Tea,7.95,5,21,credit,34,19:30
+A048,2024-01-09,Fruit Tea,5.68,3,59,credit,31,14:00
+A049,2024-01-09,Fruit Tea,7.61,5,19,credit,28,14:45
+A050,2024-01-09,Pearl Milk Tea,7.28,4,27,credit,30,17:30
+A051,2024-01-10,Fruit Tea,6.87,5,31,credit,31,13:15
+A052,2024-01-10,Pearl Milk Tea,5.27,5,60,credit,31,17:00
+A053,2024-01-10,Brown Sugar Milk Tea,5.69,3,54,cash,25,11:15
+A054,2024-01-10,Brown Sugar Milk Tea,6.04,3,24,cash,25,12:00
+A055,2024-01-10,Pearl Milk Tea,6.87,5,35,cash,33,21:00
+A056,2024-01-10,Fruit Tea,5.86,1,55,cash,30,17:15
+A057,2024-01-10,Fruit Tea,5.02,3,57,cash,30,11:15
+A058,2024-01-10,Fruit Tea,5.94,4,30,cash,31,17:45
+A059,2024-01-11,Fruit Tea,5.47,3,28,credit,30,19:30
+A060,2024-01-11,Fruit Tea,5.72,5,37,credit,29,11:15
+A061,2024-01-11,Fruit Tea,7.37,4,47,cash,31,19:15
+A062,2024-01-11,Fruit Tea,7.22,1,33,credit,26,17:45
+A063,2024-01-11,Brown Sugar Milk Tea,7.11,3,50,credit,31,11:45
+A064,2024-01-12,Brown Sugar Milk Tea,6.37,3,20,credit,28,11:15
+A065,2024-01-13,Brown Sugar Milk Tea,7.46,5,40,cash,35,21:00
+A066,2024-01-13,Coffee,7.43,2,28,credit,34,15:30
+A067,2024-01-13,Brown Sugar Milk Tea,5.65,5,44,credit,31,19:15
+A068,2024-01-13,Brown Sugar Milk Tea,7.45,3,46,cash,33,14:00
+A069,2024-01-13,Fruit Tea,7.21,3,43,credit,35,13:45
+A070,2024-01-14,Fruit Tea,7.4,1,56,credit,35,12:15
+A071,2024-01-14,Coffee,6,1,51,cash,32,11:45
+A072,2024-01-14,Pearl Milk Tea,5.16,3,34,cash,31,10:15
+A073,2024-01-14,Pearl Milk Tea,6.89,3,38,credit,33,19:15
+A074,2024-01-14,Brown Sugar Milk Tea,8,3,21,credit,28,12:15
+A075,2024-01-15,Coffee,5.57,4,32,credit,35,11:00
+A076,2024-01-15,Pearl Milk Tea,6.74,5,33,credit,27,16:30
+A077,2024-01-15,Pearl Milk Tea,7.92,4,50,credit,27,13:15
+A078,2024-01-15,Brown Sugar Milk Tea,5.87,2,18,credit,30,16:00
+A079,2024-01-16,Coffee,6.09,2,33,cash,25,14:00
+A080,2024-01-16,Coffee,7.66,1,21,credit,30,14:45
+A081,2024-01-16,Fruit Tea,7.7,2,27,cash,27,11:45
+A082,2024-01-16,Brown Sugar Milk Tea,6.34,4,59,credit,32,11:00
+A083,2024-01-16,Fruit Tea,5.52,3,51,credit,33,11:45
+A084,2024-01-17,Brown Sugar Milk Tea,5.05,3,35,cash,27,17:45
+A085,2024-01-17,Brown Sugar Milk Tea,6.22,1,59,cash,27,17:15
+A086,2024-01-17,Pearl Milk Tea,7.34,5,43,credit,27,12:30
+A087,2024-01-17,Fruit Tea,7.06,1,36,credit,26,17:00
+A088,2024-01-17,Coffee,7.52,5,60,credit,35,16:45
+A089,2024-01-17,Fruit Tea,6.45,4,36,credit,32,10:30
+A090,2024-01-17,Pearl Milk Tea,6.07,1,28,credit,26,13:15
+A091,2024-01-17,Fruit Tea,7.53,3,26,credit,33,11:00
+A092,2024-01-17,Pearl Milk Tea,6.6,1,47,cash,34,11:45
+A093,2024-01-17,Pearl Milk Tea,7.87,2,29,credit,35,12:15
+A094,2024-01-18,Coffee,6.34,5,40,credit,28,17:15
+A095,2024-01-18,Brown Sugar Milk Tea,5.36,4,44,credit,32,21:45
+A096,2024-01-18,Coffee,6.79,1,30,cash,28,17:45
+A097,2024-01-18,Pearl Milk Tea,6.41,1,53,credit,35,10:00
+A098,2024-01-19,Brown Sugar Milk Tea,6.6,5,53,credit,34,21:30
+A099,2024-01-19,Pearl Milk Tea,6.39,2,28,credit,29,10:00
+A100,2024-01-19,Fruit Tea,7.46,2,21,cash,32,15:30
+A101,2024-01-19,Brown Sugar Milk Tea,7.96,5,54,credit,27,12:15
+A102,2024-01-19,Pearl Milk Tea,6.34,5,51,credit,27,20:45
+A103,2024-01-19,Brown Sugar Milk Tea,6.1,1,41,credit,32,14:45
+A104,2024-01-19,Fruit Tea,5.13,2,56,cash,26,13:30
+A105,2024-01-20,Coffee,5.36,2,28,cash,32,12:30
+A106,2024-01-20,Fruit Tea,6.77,2,32,credit,31,14:00
+A107,2024-01-20,Brown Sugar Milk Tea,5.61,5,29,credit,28,11:15
+A108,2024-01-21,Fruit Tea,6.51,3,19,credit,25,10:00
+A109,2024-01-21,Pearl Milk Tea,7.46,4,34,cash,26,21:00
+A110,2024-01-21,Brown Sugar Milk Tea,5.12,4,22,credit,30,18:30
+A111,2024-01-21,Fruit Tea,5.41,2,30,credit,33,10:45
+A112,2024-01-21,Brown Sugar Milk Tea,6.06,1,58,credit,34,20:00
+A113,2024-01-21,Coffee,5.31,3,34,cash,34,16:15
+A114,2024-01-21,Fruit Tea,5.19,5,24,credit,25,16:00
+A115,2024-01-22,Fruit Tea,5.42,1,51,credit,25,16:45
+A116,2024-01-22,Brown Sugar Milk Tea,5.29,1,18,credit,25,18:00
+A117,2024-01-22,Fruit Tea,5.84,3,51,credit,31,21:45
+A118,2024-01-22,Brown Sugar Milk Tea,5.17,5,43,credit,29,21:15
+A119,2024-01-22,Pearl Milk Tea,5.38,2,28,credit,30,12:45
+A120,2024-01-22,Brown Sugar Milk Tea,5.81,5,44,cash,32,13:15
+A121,2024-01-22,Coffee,7.95,5,17,credit,30,17:30
+A122,2024-01-22,Fruit Tea,6.22,5,33,credit,32,15:15
+A123,2024-01-23,Brown Sugar Milk Tea,5.04,1,30,cash,27,18:15
+A124,2024-01-23,Pearl Milk Tea,5.8,1,56,credit,31,15:30
+A125,2024-01-23,Brown Sugar Milk Tea,6.31,2,42,credit,30,18:15
+A126,2024-01-23,Pearl Milk Tea,5.19,1,24,cash,34,17:00
+A127,2024-01-23,Brown Sugar Milk Tea,5.86,4,25,cash,27,12:30
+A128,2024-01-23,Coffee,5.88,2,39,cash,31,10:15
+A129,2024-01-23,Fruit Tea,5.2,2,55,credit,32,11:00
+A130,2024-01-23,Fruit Tea,5.26,1,57,cash,32,20:00
+A131,2024-01-23,Brown Sugar Milk Tea,6.54,5,44,cash,27,19:15
+A132,2024-01-23,Coffee,5.27,5,55,credit,28,17:00
+A133,2024-01-24,Pearl Milk Tea,7.91,4,28,credit,34,16:30
+A134,2024-01-24,Brown Sugar Milk Tea,5.5,4,55,credit,33,17:45
+A135,2024-01-24,Coffee,5.86,3,30,credit,35,21:30
+A136,2024-01-24,Coffee,6.58,4,17,credit,28,12:15
+A137,2024-01-24,Fruit Tea,6.21,4,23,credit,33,19:45
+A138,2024-01-25,Brown Sugar Milk Tea,5.21,5,46,credit,33,18:15
+A139,2024-01-25,Fruit Tea,6.8,1,19,credit,34,14:45
+A140,2024-01-25,Coffee,5.17,2,27,cash,25,17:45
+A141,2024-01-25,Coffee,5.24,2,55,cash,27,17:30
+A142,2024-01-25,Fruit Tea,5.09,5,21,cash,29,20:00
+A143,2024-01-25,Brown Sugar Milk Tea,6.99,1,26,credit,27,19:45
+A144,2024-01-25,Fruit Tea,5.56,2,39,cash,27,16:45
+A145,2024-01-25,Coffee,5.14,3,22,credit,32,20:45
+A146,2024-01-25,Coffee,7.68,1,21,credit,30,14:15
+A147,2024-01-25,Fruit Tea,6.8,4,59,cash,26,13:15
+A148,2024-01-26,Fruit Tea,5.03,5,22,cash,28,13:15
+A149,2024-01-27,Brown Sugar Milk Tea,7.43,3,25,cash,29,20:30
+A150,2024-01-27,Fruit Tea,6.52,3,26,cash,31,15:15
+A151,2024-01-27,Pearl Milk Tea,7.3,4,40,credit,26,11:15
+A152,2024-01-27,Coffee,6.15,5,43,cash,31,15:30
+A153,2024-01-27,Pearl Milk Tea,5.14,5,51,cash,35,10:15
+A154,2024-01-27,Fruit Tea,7.03,4,24,credit,31,13:00
+A155,2024-01-27,Fruit Tea,6.04,4,30,cash,33,21:00
+A156,2024-01-28,Pearl Milk Tea,7.31,5,33,credit,33,13:30
+A157,2024-01-28,Pearl Milk Tea,7.66,5,45,cash,29,14:30
+A158,2024-01-28,Fruit Tea,6.77,4,41,credit,34,19:45
+A159,2024-01-28,Coffee,7.99,3,25,credit,30,11:00
+A160,2024-01-28,Pearl Milk Tea,7.84,2,37,credit,35,18:45
+A161,2024-01-28,Fruit Tea,6.4,1,59,credit,33,15:00
+A162,2024-01-28,Fruit Tea,7.63,4,27,credit,26,13:15
+A163,2024-01-28,Coffee,5.34,4,57,credit,30,20:15
+A164,2024-01-28,Fruit Tea,6.56,5,53,credit,33,10:30
+A165,2024-01-29,Fruit Tea,6.27,2,49,credit,33,17:30
+A166,2024-01-30,Pearl Milk Tea,5.01,5,56,cash,27,14:15
+A167,2024-01-30,Coffee,6.32,5,48,credit,34,16:00
+A168,2024-01-30,Pearl Milk Tea,7.69,3,41,credit,28,10:45
+A169,2024-01-30,Pearl Milk Tea,5.26,4,45,cash,32,11:00
+A170,2024-01-30,Fruit Tea,6.96,2,41,credit,32,11:00
+A171,2024-01-30,Coffee,7.22,1,51,credit,26,18:30
+A172,2024-01-31,Brown Sugar Milk Tea,5.5,3,36,credit,31,15:45
+A173,2024-01-31,Coffee,7.18,5,26,credit,27,16:15
+A174,2024-01-31,Coffee,6.49,3,56,credit,32,20:45
+A175,2024-01-31,Fruit Tea,7.97,5,35,credit,26,18:30
+A176,2024-01-31,Fruit Tea,5.94,3,48,cash,25,17:15
+A177,2024-01-31,Fruit Tea,5.75,1,55,cash,35,19:00
+A178,2024-01-31,Fruit Tea,5.08,4,19,credit,27,11:45
+A179,2024-02-01,Coffee,6.54,3,37,credit,27,15:00
+A180,2024-02-01,Pearl Milk Tea,6.29,5,48,cash,34,11:30
+A181,2024-02-01,Fruit Tea,6.44,2,34,cash,30,18:30
+A182,2024-02-01,Fruit Tea,6.25,2,19,credit,31,12:30
+A183,2024-02-01,Brown Sugar Milk Tea,6.48,2,17,cash,34,21:15
+A184,2024-02-01,Coffee,6.67,4,52,credit,35,17:30
+A185,2024-02-01,Coffee,7.51,5,41,cash,33,17:45
+A186,2024-02-01,Coffee,6.99,2,31,credit,29,12:45
+A187,2024-02-01,Pearl Milk Tea,6.89,3,43,credit,31,16:30
+A188,2024-02-01,Fruit Tea,6.24,1,20,cash,27,16:00
+A189,2024-02-02,Coffee,7.3,4,42,cash,28,15:45
+A190,2024-02-02,Brown Sugar Milk Tea,5.02,4,26,credit,26,20:45
+A191,2024-02-02,Coffee,7.21,4,18,cash,35,18:15
+A192,2024-02-02,Coffee,7.93,5,54,credit,34,15:15
+A193,2024-02-02,Fruit Tea,5.43,5,26,cash,29,21:45
+A194,2024-02-02,Fruit Tea,7.65,1,42,cash,32,11:15
+A195,2024-02-02,Fruit Tea,5.65,1,23,cash,30,11:45
+A196,2024-02-02,Coffee,7.59,1,57,credit,27,16:15
+A197,2024-02-02,Brown Sugar Milk Tea,5.63,1,42,credit,35,10:45
+A198,2024-02-02,Fruit Tea,6.61,4,55,credit,34,15:45
+A199,2024-02-03,Pearl Milk Tea,5.47,3,54,credit,31,10:45
+A200,2024-02-03,Fruit Tea,7.59,4,21,cash,31,10:30
+A201,2024-02-03,Pearl Milk Tea,6.98,4,29,credit,34,12:45
+A202,2024-02-03,Fruit Tea,6.1,3,25,cash,31,17:30
+A203,2024-02-03,Pearl Milk Tea,7.27,4,23,cash,32,11:45
+A204,2024-02-03,Fruit Tea,5.36,1,36,credit,28,12:00
+A205,2024-02-04,Coffee,7.28,3,40,cash,33,20:30
+A206,2024-02-04,Fruit Tea,5.6,1,16,cash,34,15:30
+A207,2024-02-04,Coffee,5.63,3,22,credit,34,15:15
+A208,2024-02-04,Fruit Tea,7.58,2,21,cash,26,20:45
+A209,2024-02-05,Coffee,7.9,3,36,cash,33,19:30
+A210,2024-02-05,Fruit Tea,7.61,4,44,cash,30,16:30
+A211,2024-02-05,Brown Sugar Milk Tea,5.78,2,56,credit,30,18:45
+A212,2024-02-05,Pearl Milk Tea,7.93,5,17,credit,25,10:15
+A213,2024-02-05,Fruit Tea,7.3,2,16,credit,32,20:45
+A214,2024-02-05,Coffee,7.21,2,37,credit,31,11:00
+A215,2024-02-05,Fruit Tea,7.79,1,60,credit,30,12:45
+A216,2024-02-05,Fruit Tea,6,1,41,credit,28,17:30
+A217,2024-02-06,Pearl Milk Tea,7.42,5,52,credit,32,12:45
+A218,2024-02-06,Fruit Tea,7.63,3,19,cash,25,18:15
+A219,2024-02-07,Brown Sugar Milk Tea,5.03,2,53,cash,34,13:30
+A220,2024-02-07,Fruit Tea,7.65,1,27,credit,33,21:00
+A221,2024-02-07,Fruit Tea,7.57,3,35,credit,34,21:15
+A222,2024-02-07,Fruit Tea,5.82,4,48,credit,25,12:30
+A223,2024-02-07,Pearl Milk Tea,5.65,5,17,credit,25,18:00
+A224,2024-02-07,Fruit Tea,6.68,3,33,credit,29,21:00
+A225,2024-02-07,Fruit Tea,7.12,4,52,credit,26,13:15
+A226,2024-02-07,Brown Sugar Milk Tea,6.71,5,53,cash,31,11:15
+A227,2024-02-08,Fruit Tea,5.82,3,36,credit,31,11:15
+A228,2024-02-09,Fruit Tea,6.98,5,58,cash,32,21:30
+A229,2024-02-09,Pearl Milk Tea,7.48,4,24,credit,35,12:00
+A230,2024-02-09,Pearl Milk Tea,7.98,4,51,cash,33,10:00
+A231,2024-02-10,Fruit Tea,5.51,3,42,credit,35,12:30
+A232,2024-02-10,Fruit Tea,7.11,3,56,credit,27,16:45
+A233,2024-02-11,Fruit Tea,7.63,3,22,cash,34,12:45
+A234,2024-02-12,Fruit Tea,6.91,5,41,credit,31,21:00
+A235,2024-02-12,Fruit Tea,6.19,1,23,credit,35,18:15
+A236,2024-02-12,Fruit Tea,7.42,3,20,credit,33,12:30
+A237,2024-02-12,Fruit Tea,7.56,5,19,cash,25,19:00
+A238,2024-02-12,Fruit Tea,5.9,2,31,credit,32,14:00
+A239,2024-02-12,Brown Sugar Milk Tea,5.73,1,29,credit,25,18:15
+A240,2024-02-12,Brown Sugar Milk Tea,6.32,4,28,credit,28,15:00
+A241,2024-02-12,Fruit Tea,5.19,1,18,credit,30,15:45
+A242,2024-02-13,Fruit Tea,7.47,1,17,cash,30,17:00
+A243,2024-02-13,Pearl Milk Tea,6.49,4,24,cash,30,20:00
+A244,2024-02-13,Coffee,6.76,4,39,credit,32,14:30
+A245,2024-02-13,Pearl Milk Tea,7.61,5,27,cash,33,19:45
+A246,2024-02-13,Coffee,6.37,3,43,cash,28,14:30
+A247,2024-02-14,Fruit Tea,7.66,4,31,credit,34,19:45
+A248,2024-02-14,Fruit Tea,5.11,4,23,credit,28,16:00
+A249,2024-02-14,Pearl Milk Tea,7.2,1,36,credit,34,17:00
+A250,2024-02-14,Coffee,6.66,2,42,cash,28,11:45
+A251,2024-02-14,Fruit Tea,6.55,4,58,credit,35,11:45
+A252,2024-02-14,Brown Sugar Milk Tea,5.68,3,56,credit,32,21:45
+A253,2024-02-15,Fruit Tea,5.39,1,21,credit,31,21:45
+A254,2024-02-15,Fruit Tea,7.55,5,44,credit,26,21:00
+A255,2024-02-15,Brown Sugar Milk Tea,5.39,1,28,credit,35,19:00
+A256,2024-02-15,Brown Sugar Milk Tea,7.38,4,37,credit,34,19:15
+A257,2024-02-15,Coffee,6.53,2,49,cash,25,19:30
+A258,2024-02-15,Fruit Tea,7.64,2,53,credit,27,10:00
+A259,2024-02-15,Brown Sugar Milk Tea,6.37,1,31,credit,25,16:30
+A260,2024-02-15,Pearl Milk Tea,5.03,2,26,credit,28,18:45
+A261,2024-02-16,Fruit Tea,7.93,2,41,cash,27,12:00
+A262,2024-02-16,Fruit Tea,5.25,4,45,credit,28,20:30
+A263,2024-02-17,Coffee,5.02,1,56,credit,28,14:30
+A264,2024-02-17,Fruit Tea,6.56,5,23,credit,29,10:15
+A265,2024-02-17,Coffee,7.38,1,25,credit,27,19:45
+A266,2024-02-17,Pearl Milk Tea,5.93,1,22,cash,33,12:15
+A267,2024-02-18,Coffee,7.44,5,32,cash,25,17:45
+A268,2024-02-19,Coffee,6.63,5,47,credit,27,16:15
+A269,2024-02-19,Coffee,7.25,2,30,credit,33,21:45
+A270,2024-02-19,Coffee,5.7,3,22,credit,32,11:00
+A271,2024-02-19,Fruit Tea,7.18,5,19,credit,28,18:30
+A272,2024-02-20,Fruit Tea,7.27,4,30,cash,32,16:45
+A273,2024-02-20,Fruit Tea,7.63,2,20,credit,30,20:00
+A274,2024-02-20,Fruit Tea,7.24,1,36,cash,33,19:00
+A275,2024-02-20,Pearl Milk Tea,7.14,2,36,credit,33,10:15
+A276,2024-02-20,Fruit Tea,6.32,5,48,credit,30,18:45
+A277,2024-02-21,Fruit Tea,5.15,3,52,credit,34,11:30
+A278,2024-02-21,Fruit Tea,5.17,1,18,cash,34,12:15
+A279,2024-02-21,Coffee,7.3,3,48,cash,29,19:00
+A280,2024-02-21,Fruit Tea,7.91,3,30,cash,25,16:30
+A281,2024-02-21,Fruit Tea,5.65,4,48,credit,34,15:45
+A282,2024-02-21,Pearl Milk Tea,5.52,1,31,credit,33,11:45
+A283,2024-02-22,Fruit Tea,5.89,2,41,credit,28,18:30
+A284,2024-02-22,Pearl Milk Tea,6.67,4,41,cash,29,20:30
+A285,2024-02-22,Brown Sugar Milk Tea,7,5,42,credit,35,13:15
+A286,2024-02-22,Coffee,7.73,5,16,cash,35,15:00
+A287,2024-02-22,Fruit Tea,6.42,4,48,cash,29,20:00
+A288,2024-02-23,Pearl Milk Tea,5.56,5,37,credit,34,10:00
+A289,2024-02-23,Coffee,7.12,5,59,cash,25,18:15
+A290,2024-02-23,Fruit Tea,6.35,5,21,credit,27,10:45
+A291,2024-02-23,Coffee,7.93,2,54,credit,28,11:00
+A292,2024-02-23,Fruit Tea,7.3,1,25,cash,32,13:30
+A293,2024-02-23,Pearl Milk Tea,6.51,1,53,cash,25,16:00
+A294,2024-02-23,Fruit Tea,5.6,3,28,credit,34,14:30
+A295,2024-02-23,Brown Sugar Milk Tea,6.37,2,43,credit,30,15:00
+A296,2024-02-23,Pearl Milk Tea,7.73,2,45,credit,31,10:15
+A297,2024-02-23,Coffee,6.47,1,21,cash,27,16:15
+A298,2024-02-24,Pearl Milk Tea,5.5,3,60,credit,27,15:30
+A299,2024-02-24,Fruit Tea,6.59,4,33,credit,25,21:00
+A300,2024-02-24,Coffee,6.28,5,35,credit,34,16:15
+A301,2024-02-24,Fruit Tea,6.21,1,60,credit,25,11:45
+A302,2024-02-24,Brown Sugar Milk Tea,5.09,4,43,credit,32,14:45
+A303,2024-02-24,Coffee,5.36,3,35,credit,27,12:15
+A304,2024-02-25,Pearl Milk Tea,6.37,5,59,credit,33,12:00
+A305,2024-02-25,Brown Sugar Milk Tea,6.74,5,35,cash,33,16:30
+A306,2024-02-25,Fruit Tea,6.68,4,40,cash,30,15:00
+A307,2024-02-25,Coffee,5.09,4,26,credit,28,20:45
+A308,2024-02-25,Brown Sugar Milk Tea,6.7,5,18,credit,26,18:45
+A309,2024-02-25,Fruit Tea,7.06,1,48,cash,29,12:00
+A310,2024-02-25,Brown Sugar Milk Tea,5.86,3,43,credit,32,15:15
+A311,2024-02-25,Fruit Tea,6.2,5,37,cash,26,12:30
+A312,2024-02-25,Brown Sugar Milk Tea,5.08,1,43,credit,26,19:45
+A313,2024-02-26,Brown Sugar Milk Tea,5.25,5,17,credit,35,14:30
+A314,2024-02-26,Fruit Tea,5.75,2,45,cash,26,10:45
+A315,2024-02-26,Fruit Tea,7.55,3,59,cash,30,21:30
+A316,2024-02-26,Fruit Tea,7.67,4,37,credit,27,10:30
+A317,2024-02-26,Fruit Tea,5.2,3,46,credit,31,13:45
+A318,2024-02-26,Pearl Milk Tea,5.64,5,32,credit,33,12:30
+A319,2024-02-26,Fruit Tea,6.36,4,37,credit,28,18:30
+A320,2024-02-26,Brown Sugar Milk Tea,6.74,5,24,cash,28,11:15
+A321,2024-02-26,Coffee,7.48,3,42,credit,31,14:45
+A322,2024-02-27,Pearl Milk Tea,7.11,2,43,credit,30,12:00
+A323,2024-02-27,Fruit Tea,5.32,3,42,credit,28,11:00
+A324,2024-02-27,Coffee,6.03,4,53,cash,26,14:30
+A325,2024-02-27,Fruit Tea,6.27,1,19,credit,35,10:00
+A326,2024-02-27,Fruit Tea,5.72,5,54,credit,29,15:30
+A327,2024-02-27,Pearl Milk Tea,6.9,5,32,credit,29,12:00
+A328,2024-02-27,Fruit Tea,5.74,5,26,credit,35,10:45
+A329,2024-02-28,Coffee,5.4,2,32,credit,32,16:30
+A330,2024-02-28,Coffee,5.77,4,57,cash,25,14:00
+A331,2024-02-28,Coffee,5.95,3,43,credit,33,21:15
+A332,2024-02-28,Pearl Milk Tea,5.01,5,17,credit,32,16:45
+A333,2024-02-28,Fruit Tea,6.83,3,20,credit,31,15:45
+A334,2024-02-28,Fruit Tea,6.79,4,38,credit,32,10:45
+A335,2024-02-28,Fruit Tea,6.96,5,60,cash,25,21:15
+A336,2024-02-28,Pearl Milk Tea,5.03,2,37,cash,31,18:15
+A337,2024-02-29,Brown Sugar Milk Tea,7.22,1,59,credit,31,10:30
+,,,,,,,,
