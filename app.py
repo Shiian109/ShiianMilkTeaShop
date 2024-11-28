@@ -17,9 +17,9 @@ if analysis_type == '奶茶店交易记录':
     st.markdown('---')
 elif analysis_type == '奶茶店运营状况': 
     st.title('奶茶店运营状况')
-    st.dataframe(df2.head(10))
+    st.dataframe(df2)
     st.markdown('---')
 elif analysis_type == '奶茶店客户信息':  
     st.title('奶茶店客户信息')
-    st.dataframe(df3.head(10))
+    st.dataframe(df3)
     st.markdown('---')
