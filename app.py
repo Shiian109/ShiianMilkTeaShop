@@ -13,7 +13,7 @@ analysis_type = ui.tabs(
 
 if analysis_type == '奶茶店交易记录':  
     st.title('奶茶店交易记录')
-    st.dataframe(df1.head(10))
+    st.dataframe(df1)
     st.markdown('---')
 elif analysis_type == '奶茶店运营状况': 
     st.title('奶茶店运营状况')
@@ -21,5 +21,5 @@ elif analysis_type == '奶茶店运营状况':
     st.markdown('---')
 elif analysis_type == '奶茶店客户信息':  
     st.title('奶茶店客户信息')
-    ui.table(df3.head(10))
+    st.dataframe(df3.head(10))
     st.markdown('---')
