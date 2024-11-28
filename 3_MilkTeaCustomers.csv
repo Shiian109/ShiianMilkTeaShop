@@ -1,0 +1,502 @@
+Customer_ID,Age,Gender,Profession,Membership_Type,Monthly_Consumption_Frequency,Coupon_Usage_Times,Average_Spending_Per_Visit,Waiting_Time_Minutes,Coffee_Purchase_Ratio,Brown_Sugar_Milk_Tea_Purchase_Ratio,Pearl_Milk_Tea_Purchase_Ratio,Fruit_Tea_Purchase_Ratio,Customer_Feedback
+1,56,Male,Student,Regular,3,2,34.2,5,0.0,0.5,0.2,0.3,I like the atmosphere here
+2,46,Male,Civil_Servant,Gold,8,3,28.5,3,0.4,0.1,0.4,0.1,The taste is average
+3,32,Female,Freelancer,Regular,8,7,35.0,4,0.1,0.7,0.1,0.1,Great value for money
+4,60,Male,Freelancer,Regular,2,0,25.9,9,0.1,0.2,0.4,0.4,Great value for money
+5,25,Female,Civil_Servant,Regular,8,4,45.9,3,0.2,0.1,0.4,0.3,Nothing special
+6,38,Female,Teacher,Regular,11,6,23.6,3,0.2,0.4,0.3,0.2,Great value for money
+7,56,Male,Freelancer,Regular,13,9,36.1,4,0.0,0.0,0.6,0.4,Too expensive
+8,36,Female,Student,Regular,13,2,14.6,2,0.1,0.8,0.1,0.0,Nothing special
+9,40,Female,Student,Gold,1,0,31.1,5,0.9,0.0,0.0,0.1,Acceptable
+10,28,Male,Office_Worker,Regular,6,2,14.5,10,0.2,0.4,0.1,0.3,The taste is average
+11,28,Female,Freelancer,Regular,8,7,18.8,6,0.2,0.1,0.2,0.4,The milk tea is very delicious and rich in flavor
+12,41,Female,Teacher,Gold,3,0,44.1,4,0.4,0.5,0.1,0.0,The taste is excellent
+13,53,Female,Civil_Servant,Regular,8,3,23.1,4,0.4,0.2,0.3,0.1,Not bad
+14,57,Female,Civil_Servant,Regular,12,7,27.2,0,0.1,0.3,0.4,0.3,I like the atmosphere here
+15,41,Male,Teacher,Regular,1,1,33.7,8,0.3,0.3,0.1,0.3,Nothing special
+16,20,Female,Engineer,Regular,11,2,30.0,5,0.2,0.4,0.2,0.2,The taste is average
+17,39,Female,Entrepreneur,Regular,11,5,26.5,4,0.3,0.0,0.5,0.1,Not bad
+18,19,Female,Office_Worker,Gold,9,4,28.6,15,0.0,0.1,0.8,0.0,Great value for money
+19,41,Female,Civil_Servant,Gold,13,1,49.0,6,0.3,0.1,0.5,0.1,Poor service attitude
+20,61,Male,Freelancer,Regular,11,7,24.4,3,0.0,0.8,0.1,0.0,Not bad
+21,47,Female,Office_Worker,Regular,13,11,27.0,4,0.2,0.1,0.2,0.5,Average taste
+22,55,Male,Freelancer,Regular,9,5,35.5,8,0.3,0.3,0.2,0.2,Great value for money
+23,19,Female,Engineer,Platinum,5,1,36.1,5,0.1,0.4,0.3,0.2,The taste is average
+24,38,Male,Student,Regular,10,4,36.9,1,0.5,0.1,0.0,0.4,Acceptable
+25,50,Male,Office_Worker,Regular,4,0,31.4,8,0.0,0.2,0.1,0.6,Nothing special
+26,29,Male,Civil_Servant,Regular,11,11,13.6,3,0.6,0.1,0.2,0.1,Waiting time is too long
+27,39,Male,Office_Worker,Regular,6,1,41.3,11,0.2,0.2,0.1,0.5,Great value for money
+28,61,Male,Office_Worker,Gold,12,5,13.5,8,0.1,0.1,0.0,0.8,Not bad
+29,42,Female,Office_Worker,Regular,7,4,28.0,4,0.1,0.0,0.5,0.4,The milk tea is not fresh
+30,44,Female,Entrepreneur,Gold,5,3,17.5,9,0.6,0.4,0.0,0.0,Great value for money
+31,59,Female,Office_Worker,Regular,11,8,24.4,5,0.0,0.6,0.2,0.2,Nothing special
+32,45,Male,Freelancer,Gold,13,0,28.3,8,0.1,0.1,0.3,0.5,Too expensive
+33,33,Female,Student,Regular,10,10,28.2,6,0.1,0.1,0.8,0.0,Acceptable
+34,32,Male,Engineer,Regular,9,9,29.2,2,0.5,0.0,0.3,0.1,Nothing special
+35,64,Male,Teacher,Gold,3,3,41.1,3,0.2,0.3,0.0,0.5,Waiting time is too long
+36,61,Female,Office_Worker,Platinum,7,3,29.5,8,0.0,0.7,0.3,0.0,The milk tea is not fresh
+37,20,Female,Civil_Servant,Gold,10,2,22.6,4,0.1,0.0,0.5,0.4,Great value for money
+38,54,Male,Office_Worker,Regular,10,6,34.6,4,0.0,0.0,0.8,0.1,The milk tea is very delicious and rich in flavor
+39,24,Male,Civil_Servant,Platinum,11,3,36.9,2,0.1,0.5,0.2,0.2,Not bad
+40,38,Female,Freelancer,Regular,5,0,12.7,6,0.3,0.5,0.2,0.0,The taste is ordinary
+41,26,Female,Civil_Servant,Platinum,14,2,31.0,11,0.2,0.0,0.4,0.3,Not bad
+42,56,Female,Teacher,Regular,7,4,32.0,2,0.1,0.5,0.1,0.2,Nothing special
+43,35,Female,Student,Gold,2,2,22.0,5,0.2,0.1,0.4,0.3,Great value for money
+44,21,Male,Civil_Servant,Gold,4,4,38.8,9,0.2,0.2,0.2,0.4,Acceptable
+45,42,Female,Civil_Servant,Gold,2,0,23.5,5,0.6,0.2,0.0,0.2,I like the atmosphere here
+46,31,Female,Student,Regular,14,6,26.3,6,0.4,0.2,0.1,0.4,Nothing special
+47,26,Female,Teacher,Regular,13,1,23.3,2,0.5,0.2,0.1,0.2,Average taste
+48,43,Male,Office_Worker,Gold,13,3,25.2,6,0.1,0.6,0.2,0.1,I like the atmosphere here
+49,19,Male,Civil_Servant,Regular,12,8,14.0,4,0.0,0.1,0.4,0.5,The taste is excellent
+50,37,Male,Student,Platinum,7,3,10.6,8,0.1,0.5,0.1,0.3,Nothing special
+51,45,Male,Freelancer,Gold,2,1,40.9,9,0.1,0.2,0.6,0.1,Average taste
+52,64,Female,Student,Regular,13,1,16.5,13,0.2,0.7,0.0,0.0,I like the atmosphere here
+53,24,Male,Freelancer,Gold,14,9,15.1,7,0.2,0.4,0.1,0.3,Poor service attitude
+54,61,Female,Teacher,Regular,11,8,3.5,6,0.8,0.0,0.0,0.2,The taste is ordinary
+55,25,Female,Office_Worker,Gold,1,1,18.6,6,0.2,0.3,0.3,0.1,Too expensive
+56,64,Female,Student,Gold,9,4,11.8,4,0.1,0.4,0.3,0.2,Not bad
+57,52,Female,Engineer,Regular,1,1,41.4,6,0.3,0.4,0.3,0.1,Not bad
+58,31,Male,Engineer,Regular,8,3,35.1,4,0.1,0.1,0.5,0.3,The taste is average
+59,34,Male,Entrepreneur,Platinum,2,2,18.1,6,0.0,0.6,0.4,0.0,Average taste
+60,53,Male,Civil_Servant,Regular,12,11,47.5,9,0.2,0.3,0.5,0.1,The taste is ordinary
+61,57,Female,Teacher,Regular,8,6,34.8,2,0.0,0.1,0.5,0.3,The taste is excellent
+62,21,Female,Student,Regular,13,11,21.8,8,0.1,0.5,0.4,0.1,Not bad
+63,19,Female,Engineer,Regular,3,0,0.0,9,0.2,0.0,0.3,0.6,Very friendly service
+64,23,Female,Civil_Servant,Regular,6,6,47.9,5,0.4,0.0,0.0,0.6,I like the atmosphere here
+65,59,Female,Engineer,Regular,3,2,11.1,-1,0.3,0.2,0.2,0.3,The milk tea is very delicious and rich in flavor
+66,21,Male,Student,Regular,14,13,8.5,3,0.3,0.6,0.1,0.0,The milk tea is very delicious and rich in flavor
+67,46,Female,Freelancer,Gold,7,0,35.2,9,0.4,0.3,0.2,0.1,Poor service attitude
+68,35,Male,Student,Regular,10,3,49.4,5,0.2,0.0,0.4,0.4,The taste is excellent
+69,43,Female,Entrepreneur,Regular,9,1,38.8,2,0.1,0.4,0.1,0.4,The taste is ordinary
+70,61,Female,Student,Regular,2,1,30.6,3,0.4,0.0,0.0,0.6,Waiting time is too long
+71,51,Male,Student,Regular,12,5,30.9,8,0.3,0.0,0.1,0.6,Average taste
+72,27,Male,Entrepreneur,Regular,12,5,33.5,7,0.8,0.0,0.1,0.1,Very friendly service
+73,53,Female,Teacher,Gold,14,9,32.6,4,0.1,0.2,0.6,0.1,Nothing special
+74,31,Female,Student,Gold,5,3,27.8,4,0.2,0.6,0.1,0.1,Acceptable
+75,48,Female,Entrepreneur,Regular,13,5,26.0,4,0.3,0.4,0.2,0.1,Nothing special
+76,32,Female,Civil_Servant,Gold,6,4,24.4,2,0.4,0.3,0.2,0.0,Nothing special
+77,25,Male,Freelancer,Gold,4,1,17.5,10,0.0,0.0,0.2,0.7,Poor service attitude
+78,31,Female,Freelancer,Regular,4,1,22.2,4,0.5,0.3,0.1,0.1,Acceptable
+79,40,Male,Student,Platinum,4,3,8.1,9,0.4,0.3,0.2,0.1,Great value for money
+80,57,Female,Teacher,Platinum,2,1,24.0,10,0.2,0.5,0.2,0.1,The taste is ordinary
+81,38,Male,Teacher,Regular,4,1,15.1,8,0.1,0.0,0.5,0.4,The milk tea is very delicious and rich in flavor
+82,33,Male,Civil_Servant,Regular,11,3,14.0,4,0.2,0.4,0.1,0.3,The taste is average
+83,62,Female,Student,Platinum,1,1,26.8,6,0.3,0.2,0.1,0.4,Very friendly service
+84,35,Male,Freelancer,Gold,12,7,38.9,5,0.4,0.2,0.0,0.4,Great value for money
+85,64,Female,Teacher,Regular,6,5,34.2,2,0.4,0.3,0.1,0.2,Waiting time is too long
+86,41,Male,Student,Gold,1,0,9.3,6,0.3,0.0,0.4,0.3,Acceptable
+87,43,Female,Engineer,Gold,10,8,15.1,1,0.4,0.5,0.1,0.0,Great value for money
+88,42,Male,Teacher,Gold,6,5,34.4,9,0.1,0.4,0.2,0.4,Not bad
+89,62,Female,Entrepreneur,Gold,1,1,15.2,4,0.1,0.4,0.1,0.4,The milk tea is not fresh
+90,58,Female,Engineer,Gold,6,4,22.8,6,0.2,0.3,0.0,0.5,Great value for money
+91,46,Male,Teacher,Regular,10,1,30.5,6,0.3,0.2,0.1,0.4,The milk tea is not fresh
+92,32,Male,Freelancer,Regular,8,4,15.3,4,0.0,0.6,0.3,0.1,Very friendly service
+93,62,Male,Office_Worker,Gold,11,7,26.1,7,0.2,0.2,0.4,0.2,Nothing special
+94,18,Male,Engineer,Platinum,2,1,11.7,4,0.1,0.0,0.8,0.0,The milk tea is not fresh
+95,42,Female,Civil_Servant,Regular,2,0,19.0,8,0.1,0.3,0.5,0.1,I like the atmosphere here
+96,24,Male,Civil_Servant,Regular,14,11,28.2,1,0.3,0.1,0.5,0.1,Not bad
+97,26,Female,Freelancer,Gold,13,11,9.1,5,0.1,0.8,0.0,0.1,I like the atmosphere here
+98,41,Male,Teacher,Regular,12,11,29.4,11,0.3,0.2,0.2,0.2,The taste is ordinary
+99,18,Female,Student,Gold,4,4,24.8,2,0.2,0.5,0.2,0.0,Average taste
+100,61,Female,Teacher,Gold,11,8,30.5,3,0.3,0.2,0.4,0.1,Acceptable
+101,25,Female,Freelancer,Gold,3,0,27.2,7,0.1,0.3,0.3,0.3,I like the atmosphere here
+102,41,Female,Civil_Servant,Regular,4,4,38.6,6,0.3,0.3,0.1,0.4,I like the atmosphere here
+103,28,Male,Teacher,Regular,13,0,26.3,6,0.4,0.0,0.5,0.1,The milk tea is very delicious and rich in flavor
+104,34,Male,Civil_Servant,Regular,12,8,20.7,6,0.4,0.2,0.4,0.0,Great value for money
+105,25,Female,Engineer,Regular,7,6,26.2,7,0.0,0.2,0.7,0.1,Average taste
+106,52,Male,Student,Regular,13,8,30.4,8,0.4,0.0,0.1,0.5,The milk tea is not fresh
+107,52,Male,Engineer,Regular,11,7,25.5,6,0.5,0.2,0.1,0.2,The taste is ordinary
+108,50,Female,Civil_Servant,Regular,1,0,25.4,4,0.2,0.4,0.0,0.4,Not bad
+109,22,Male,Civil_Servant,Regular,6,3,18.0,7,0.1,0.2,0.2,0.4,Too expensive
+110,59,Male,Office_Worker,Regular,3,3,18.4,11,0.2,0.0,0.1,0.6,The taste is ordinary
+111,56,Male,Office_Worker,Regular,11,7,11.0,5,0.4,0.1,0.0,0.5,Too expensive
+112,58,Female,Engineer,Regular,10,10,42.5,2,0.0,0.0,0.9,0.1,Average taste
+113,45,Male,Entrepreneur,Gold,7,2,12.6,8,0.3,0.7,0.0,0.0,The taste is excellent
+114,24,Female,Engineer,Gold,10,0,18.1,5,0.0,0.0,0.3,0.7,The milk tea is very delicious and rich in flavor
+115,26,Male,Office_Worker,Regular,2,2,17.8,-2,0.2,0.5,0.2,0.2,Nothing special
+116,25,Male,Civil_Servant,Gold,14,2,33.9,8,0.1,0.0,0.7,0.1,Very friendly service
+117,29,Male,Freelancer,Regular,2,0,22.1,3,0.2,0.3,0.2,0.3,The taste is excellent
+118,51,Female,Engineer,Gold,13,10,37.5,5,0.0,0.1,0.7,0.1,Average taste
+119,50,Female,Civil_Servant,Regular,4,4,18.3,6,0.2,0.3,0.4,0.1,Acceptable
+120,40,Male,Freelancer,Platinum,1,1,27.8,6,0.6,0.1,0.0,0.3,Acceptable
+121,41,Female,Freelancer,Gold,3,2,16.6,7,0.1,0.5,0.0,0.3,I like the atmosphere here
+122,54,Male,Office_Worker,Gold,13,9,46.5,4,0.0,0.1,0.1,0.7,Great value for money
+123,52,Female,Engineer,Gold,9,8,13.1,7,0.1,0.4,0.4,0.1,Acceptable
+124,61,Female,Teacher,Regular,7,3,28.1,4,0.3,0.3,0.3,0.1,Poor service attitude
+125,57,Male,Student,Regular,7,6,31.3,7,0.3,0.1,0.3,0.3,Nothing special
+126,39,Male,Office_Worker,Gold,13,8,29.1,7,0.1,0.4,0.2,0.2,Too expensive
+127,44,Male,Office_Worker,Regular,13,7,23.1,2,0.0,0.3,0.1,0.6,Nothing special
+128,52,Male,Teacher,Gold,11,11,23.7,8,0.3,0.0,0.5,0.2,Acceptable
+129,18,Female,Student,Regular,4,1,25.4,3,0.3,0.1,0.5,0.2,I like the atmosphere here
+130,52,Female,Civil_Servant,Regular,2,0,23.5,7,0.7,0.1,0.1,0.1,The taste is ordinary
+131,54,Female,Entrepreneur,Regular,14,6,34.6,6,0.2,0.2,0.1,0.5,Acceptable
+132,64,Male,Engineer,Regular,4,4,47.1,11,0.0,0.7,0.0,0.2,Acceptable
+133,31,Male,Entrepreneur,Gold,6,2,19.4,4,0.0,0.0,0.3,0.6,Average taste
+134,20,Female,Civil_Servant,Regular,11,11,11.3,4,0.0,0.5,0.5,0.0,Average taste
+135,18,Male,Office_Worker,Regular,11,7,24.1,5,0.1,0.7,0.1,0.1,Great value for money
+136,22,Female,Student,Regular,3,1,50.8,4,0.0,0.7,0.1,0.2,Average taste
+137,43,Female,Office_Worker,Regular,1,0,17.0,7,0.1,0.2,0.1,0.6,I like the atmosphere here
+138,31,Female,Freelancer,Gold,14,2,41.4,0,0.1,0.6,0.1,0.2,Waiting time is too long
+139,56,Female,Office_Worker,Regular,12,0,41.8,2,0.4,0.1,0.1,0.4,I like the atmosphere here
+140,44,Female,Office_Worker,Regular,8,2,19.5,2,0.4,0.2,0.0,0.3,Very friendly service
+141,26,Male,Civil_Servant,Regular,12,4,30.7,8,0.3,0.3,0.2,0.1,Not bad
+142,32,Male,Civil_Servant,Gold,13,13,41.3,10,0.4,0.2,0.4,0.0,The taste is ordinary
+143,32,Male,Civil_Servant,Regular,5,2,21.2,5,0.0,0.2,0.2,0.6,Not bad
+144,43,Female,Entrepreneur,Gold,5,0,23.0,4,0.6,0.3,0.0,0.1,The taste is excellent
+145,59,Female,Freelancer,Platinum,11,4,19.2,5,0.1,0.3,0.2,0.4,Average taste
+146,30,Female,Civil_Servant,Regular,4,1,14.9,8,0.1,0.2,0.4,0.3,Great value for money
+147,49,Female,Student,Regular,6,6,18.5,2,0.1,0.1,0.1,0.7,Too expensive
+148,56,Male,Entrepreneur,Regular,3,2,12.8,6,0.8,0.1,0.1,0.1,Too expensive
+149,49,Male,Teacher,Regular,9,6,25.3,8,0.1,0.3,0.1,0.5,Average taste
+150,21,Female,Student,Gold,5,2,17.3,7,0.1,0.2,0.2,0.4,Great value for money
+151,47,Female,Engineer,Platinum,3,0,27.3,6,0.8,0.1,0.1,0.0,Nothing special
+152,54,Female,Engineer,Regular,11,9,9.4,8,0.0,0.5,0.1,0.3,The milk tea is very delicious and rich in flavor
+153,40,Male,Student,Regular,1,1,28.3,-3,0.4,0.2,0.4,0.0,Not bad
+154,56,Male,Civil_Servant,Regular,10,2,33.3,7,0.4,0.1,0.3,0.2,Great value for money
+155,62,Male,Teacher,Gold,12,6,5.1,3,0.7,0.0,0.2,0.1,Too expensive
+156,32,Female,Teacher,Regular,6,0,28.7,0,0.8,0.1,0.1,0.0,The milk tea is very delicious and rich in flavor
+157,60,Female,Entrepreneur,Regular,2,0,37.3,7,0.5,0.4,0.1,0.1,Average taste
+158,46,Male,Teacher,Platinum,13,3,12.9,9,0.1,0.4,0.0,0.6,Nothing special
+159,53,Female,Engineer,Gold,3,1,41.7,5,0.6,0.1,0.0,0.3,Average taste
+160,30,Male,Freelancer,Regular,1,0,29.2,8,0.3,0.2,0.5,0.0,Very friendly service
+161,49,Female,Civil_Servant,Gold,9,6,17.9,10,0.5,0.2,0.0,0.3,Poor service attitude
+162,24,Male,Teacher,Gold,8,6,24.4,9,0.1,0.0,0.8,0.1,Average taste
+163,39,Female,Entrepreneur,Regular,12,12,30.6,10,0.2,0.1,0.5,0.2,Acceptable
+164,45,Male,Engineer,Regular,2,2,25.8,7,0.7,0.1,0.1,0.2,I like the atmosphere here
+165,19,Male,Freelancer,Regular,12,10,30.4,5,0.5,0.2,0.1,0.2,Average taste
+166,59,Male,Office_Worker,Regular,11,3,15.8,0,0.2,0.1,0.3,0.4,Not bad
+167,62,Male,Office_Worker,Gold,8,6,26.7,4,0.0,0.2,0.7,0.1,The milk tea is very delicious and rich in flavor
+168,23,Male,Freelancer,Platinum,12,10,10.9,2,0.1,0.4,0.3,0.2,Very friendly service
+169,45,Male,Engineer,Regular,14,2,23.9,12,0.4,0.1,0.3,0.1,Waiting time is too long
+170,45,Female,Entrepreneur,Regular,9,5,16.0,4,0.5,0.1,0.0,0.3,I like the atmosphere here
+171,61,Female,Freelancer,Regular,1,1,17.6,5,0.2,0.1,0.4,0.4,I like the atmosphere here
+172,61,Female,Civil_Servant,Regular,13,1,37.4,7,0.0,0.5,0.4,0.0,Average taste
+173,37,Male,Civil_Servant,Gold,5,1,35.9,5,0.1,0.4,0.2,0.3,Nothing special
+174,47,Male,Office_Worker,Regular,8,8,31.1,10,0.3,0.1,0.0,0.5,The milk tea is very delicious and rich in flavor
+175,28,Female,Teacher,Regular,11,4,14.1,3,0.6,0.3,0.0,0.1,Acceptable
+176,45,Male,Entrepreneur,Regular,14,5,21.8,6,0.4,0.0,0.6,0.0,Very friendly service
+177,42,Male,Office_Worker,Gold,2,1,37.1,3,0.2,0.3,0.4,0.1,The milk tea is very delicious and rich in flavor
+178,56,Male,Teacher,Regular,4,2,26.4,1,0.1,0.3,0.1,0.5,The milk tea is very delicious and rich in flavor
+179,50,Male,Teacher,Gold,7,7,48.2,3,0.0,0.2,0.2,0.6,Waiting time is too long
+180,18,Male,Civil_Servant,Regular,3,1,28.9,5,0.6,0.1,0.3,0.0,Very friendly service
+181,44,Female,Engineer,Gold,13,6,26.9,4,0.2,0.1,0.5,0.2,The milk tea is very delicious and rich in flavor
+182,30,Female,Student,Gold,12,11,21.9,3,0.2,0.4,0.1,0.3,Not bad
+183,58,Female,Engineer,Regular,5,0,26.3,1,0.2,0.0,0.0,0.8,The milk tea is not fresh
+184,20,Female,Student,Regular,8,6,23.5,5,0.3,0.6,0.1,0.0,The taste is excellent
+185,56,Female,Freelancer,Gold,12,0,32.1,0,0.3,0.1,0.6,0.1,Not bad
+186,23,Male,Civil_Servant,Platinum,10,0,34.6,7,0.2,0.3,0.1,0.4,The milk tea is very delicious and rich in flavor
+187,25,Male,Teacher,Regular,3,0,17.1,5,0.2,0.3,0.5,0.0,Not bad
+188,44,Male,Entrepreneur,Regular,4,2,11.7,1,0.1,0.5,0.3,0.1,Acceptable
+189,26,Male,Student,Platinum,14,13,6.6,4,0.0,0.1,0.1,0.8,Acceptable
+190,54,Female,Engineer,Regular,9,8,30.1,3,0.2,0.4,0.3,0.2,Great value for money
+191,50,Female,Teacher,Regular,14,3,14.0,6,0.0,0.1,0.6,0.3,The taste is excellent
+192,59,Female,Student,Platinum,14,12,3.5,9,0.7,0.2,0.1,0.1,Very friendly service
+193,61,Male,Student,Regular,7,0,28.9,-1,0.7,0.2,0.0,0.0,Great value for money
+194,41,Female,Student,Regular,1,0,49.9,5,0.7,0.0,0.2,0.1,Very friendly service
+195,32,Male,Entrepreneur,Regular,14,6,24.9,5,0.1,0.0,0.5,0.4,Nothing special
+196,49,Female,Civil_Servant,Regular,12,5,33.4,7,0.1,0.7,0.1,0.1,Poor service attitude
+197,49,Female,Entrepreneur,Regular,4,2,25.8,6,0.0,0.5,0.3,0.2,Poor service attitude
+198,41,Male,Office_Worker,Gold,4,0,24.0,3,0.2,0.1,0.3,0.5,The milk tea is not fresh
+199,58,Male,Teacher,Regular,9,4,34.2,4,0.3,0.5,0.1,0.1,Acceptable
+200,29,Female,Civil_Servant,Regular,6,0,22.1,3,0.2,0.6,0.0,0.2,The taste is ordinary
+201,56,Female,Civil_Servant,Regular,9,2,27.7,8,0.3,0.2,0.1,0.4,The taste is excellent
+202,19,Male,Civil_Servant,Regular,12,9,28.2,5,0.3,0.2,0.2,0.4,Acceptable
+203,20,Female,Engineer,Platinum,6,3,18.3,11,0.4,0.2,0.0,0.3,Not bad
+204,54,Female,Civil_Servant,Regular,6,6,34.9,5,0.1,0.8,0.1,0.0,Average taste
+205,34,Male,Entrepreneur,Regular,5,2,23.3,3,0.3,0.1,0.2,0.4,Nothing special
+206,19,Female,Civil_Servant,Gold,5,5,17.4,0,0.1,0.3,0.4,0.3,The taste is excellent
+207,19,Male,Freelancer,Regular,2,0,30.4,0,0.0,0.0,0.0,0.9,The taste is excellent
+208,45,Female,Teacher,Regular,8,3,16.0,0,0.8,0.0,0.2,0.0,Too expensive
+209,40,Male,Civil_Servant,Regular,8,0,25.3,6,0.5,0.0,0.2,0.3,The milk tea is very delicious and rich in flavor
+210,54,Female,Teacher,Regular,11,0,24.9,7,0.1,0.6,0.1,0.2,Average taste
+211,49,Male,Freelancer,Regular,13,9,35.9,0,0.0,0.4,0.4,0.1,The taste is average
+212,50,Female,Freelancer,Regular,1,1,29.7,8,0.4,0.4,0.0,0.2,Acceptable
+213,18,Male,Teacher,Gold,8,6,24.7,4,0.2,0.2,0.5,0.0,Average taste
+214,36,Female,Student,Regular,5,1,33.2,5,0.2,0.2,0.5,0.1,The taste is excellent
+215,19,Female,Office_Worker,Regular,2,2,38.9,10,0.4,0.1,0.4,0.2,Great value for money
+216,61,Female,Engineer,Gold,14,0,30.6,8,0.0,0.1,0.3,0.6,The milk tea is not fresh
+217,43,Female,Student,Regular,2,0,25.1,4,0.5,0.2,0.2,0.1,Average taste
+218,49,Female,Student,Gold,14,0,11.9,2,0.3,0.5,0.0,0.2,Average taste
+219,23,Female,Entrepreneur,Regular,6,0,14.3,-1,0.1,0.2,0.3,0.4,Very friendly service
+220,49,Female,Engineer,Regular,11,10,21.9,3,0.2,0.1,0.6,0.2,The milk tea is very delicious and rich in flavor
+221,21,Female,Engineer,Gold,13,0,18.9,4,0.1,0.0,0.5,0.4,Poor service attitude
+222,28,Female,Student,Regular,9,1,23.1,2,0.0,0.1,0.2,0.7,Great value for money
+223,34,Male,Civil_Servant,Regular,1,1,25.6,5,0.2,0.1,0.4,0.4,Acceptable
+224,55,Male,Entrepreneur,Regular,12,11,30.3,5,0.3,0.4,0.1,0.2,The milk tea is very delicious and rich in flavor
+225,41,Female,Entrepreneur,Regular,6,5,24.3,4,0.0,0.4,0.0,0.5,The taste is ordinary
+226,22,Male,Freelancer,Gold,9,6,29.9,3,0.0,0.7,0.2,0.1,Too expensive
+227,51,Female,Engineer,Regular,8,4,25.6,6,0.1,0.1,0.2,0.5,Acceptable
+228,23,Female,Student,Regular,11,0,5.2,6,0.4,0.1,0.4,0.0,Very friendly service
+229,39,Male,Freelancer,Regular,6,0,15.6,2,0.1,0.0,0.2,0.6,Acceptable
+230,28,Female,Teacher,Gold,3,2,23.6,9,0.1,0.4,0.4,0.1,Nothing special
+231,33,Female,Office_Worker,Regular,8,1,12.9,5,0.2,0.3,0.1,0.5,Not bad
+232,50,Male,Entrepreneur,Gold,9,4,31.0,5,0.1,0.1,0.2,0.6,The milk tea is not fresh
+233,26,Male,Teacher,Regular,1,1,40.3,7,0.0,0.2,0.5,0.3,The taste is ordinary
+234,23,Female,Teacher,Gold,12,9,37.2,6,0.3,0.2,0.5,0.1,The taste is average
+235,33,Male,Civil_Servant,Platinum,9,5,22.9,8,0.3,0.3,0.3,0.2,Acceptable
+236,46,Male,Office_Worker,Gold,14,6,39.9,6,0.1,0.4,0.3,0.1,Very friendly service
+237,20,Female,Teacher,Gold,6,3,26.5,3,0.3,0.2,0.0,0.4,The taste is excellent
+238,37,Male,Teacher,Regular,6,6,21.6,6,0.3,0.2,0.5,0.0,I like the atmosphere here
+239,53,Male,Office_Worker,Regular,12,10,18.9,2,0.1,0.0,0.1,0.8,The taste is average
+240,36,Female,Office_Worker,Regular,4,2,22.0,5,0.1,0.0,0.1,0.8,Nothing special
+241,43,Male,Teacher,Regular,1,0,21.1,5,0.1,0.2,0.3,0.3,The taste is ordinary
+242,20,Male,Office_Worker,Regular,10,5,26.7,4,0.1,0.0,0.2,0.7,The taste is excellent
+243,36,Female,Teacher,Regular,8,7,26.6,5,0.3,0.4,0.1,0.2,I like the atmosphere here
+244,37,Female,Teacher,Regular,2,0,25.0,-1,0.5,0.3,0.1,0.2,Nothing special
+245,49,Female,Civil_Servant,Regular,12,3,29.4,3,0.8,0.0,0.0,0.1,Not bad
+246,24,Male,Student,Gold,1,1,36.9,5,0.2,0.5,0.1,0.2,I like the atmosphere here
+247,58,Female,Teacher,Regular,2,1,34.5,5,0.1,0.1,0.3,0.5,Acceptable
+248,50,Female,Freelancer,Gold,1,1,10.2,2,0.1,0.2,0.4,0.3,The milk tea is very delicious and rich in flavor
+249,57,Male,Entrepreneur,Gold,1,0,25.9,9,0.5,0.1,0.1,0.3,Great value for money
+250,56,Female,Engineer,Platinum,9,0,34.3,2,0.2,0.1,0.3,0.3,Not bad
+251,35,Female,Student,Gold,13,8,11.3,8,0.2,0.1,0.5,0.3,Very friendly service
+252,57,Female,Student,Gold,14,11,22.8,6,0.4,0.2,0.4,0.0,Poor service attitude
+253,18,Female,Student,Platinum,1,0,13.3,3,0.3,0.1,0.1,0.5,I like the atmosphere here
+254,28,Male,Civil_Servant,Platinum,13,5,7.0,10,0.2,0.5,0.2,0.1,Very friendly service
+255,45,Female,Teacher,Regular,4,4,30.4,1,0.1,0.1,0.3,0.5,I like the atmosphere here
+256,42,Female,Civil_Servant,Regular,10,2,32.6,8,0.7,0.1,0.1,0.1,Nothing special
+257,40,Male,Teacher,Regular,6,3,19.2,8,0.6,0.0,0.1,0.2,Not bad
+258,48,Female,Civil_Servant,Regular,7,3,25.9,3,0.1,0.2,0.3,0.4,Acceptable
+259,47,Male,Civil_Servant,Gold,2,2,19.5,9,0.5,0.0,0.2,0.3,The milk tea is very delicious and rich in flavor
+260,59,Male,Entrepreneur,Gold,6,3,28.9,4,0.1,0.5,0.0,0.4,The milk tea is very delicious and rich in flavor
+261,52,Male,Freelancer,Gold,7,2,10.2,6,0.8,0.2,0.0,0.0,Not bad
+262,24,Female,Civil_Servant,Regular,10,9,26.8,6,0.0,0.2,0.6,0.2,Waiting time is too long
+263,33,Male,Entrepreneur,Gold,14,2,24.8,5,0.1,0.1,0.1,0.6,The taste is average
+264,43,Male,Office_Worker,Gold,10,2,30.8,7,0.1,0.1,0.1,0.7,Very friendly service
+265,19,Male,Freelancer,Gold,2,2,26.2,7,0.5,0.1,0.3,0.1,Average taste
+266,18,Female,Civil_Servant,Platinum,2,0,15.3,0,0.1,0.2,0.4,0.4,The taste is average
+267,29,Female,Engineer,Gold,10,0,37.0,9,0.1,0.4,0.4,0.1,Great value for money
+268,22,Female,Student,Regular,7,7,23.4,0,0.4,0.1,0.2,0.3,Waiting time is too long
+269,54,Female,Office_Worker,Gold,12,6,24.7,8,0.4,0.0,0.3,0.3,Very friendly service
+270,49,Female,Office_Worker,Regular,1,1,15.7,8,0.0,0.6,0.1,0.3,Too expensive
+271,26,Female,Entrepreneur,Regular,8,7,20.6,2,0.1,0.0,0.7,0.2,Nothing special
+272,58,Female,Office_Worker,Gold,11,0,16.2,4,0.2,0.3,0.0,0.5,Too expensive
+273,52,Male,Freelancer,Regular,13,10,23.3,2,0.2,0.4,0.1,0.3,The taste is ordinary
+274,36,Male,Civil_Servant,Gold,3,3,42.1,4,0.7,0.1,0.1,0.1,Great value for money
+275,33,Male,Civil_Servant,Regular,11,8,11.3,4,0.1,0.1,0.4,0.4,Too expensive
+276,20,Male,Engineer,Gold,6,0,8.9,7,0.5,0.1,0.0,0.4,The taste is excellent
+277,37,Female,Student,Regular,9,1,39.7,9,0.1,0.3,0.4,0.2,Great value for money
+278,41,Male,Entrepreneur,Platinum,6,6,22.9,9,0.1,0.5,0.1,0.3,The taste is ordinary
+279,50,Male,Student,Gold,9,9,18.3,3,0.3,0.3,0.2,0.2,Nothing special
+280,41,Male,Office_Worker,Regular,7,2,35.4,4,0.2,0.5,0.3,0.0,Too expensive
+281,28,Male,Engineer,Regular,9,6,18.9,0,0.3,0.2,0.2,0.3,I like the atmosphere here
+282,25,Female,Student,Platinum,2,1,43.3,3,0.1,0.1,0.5,0.3,Nothing special
+283,53,Female,Freelancer,Regular,12,8,31.8,8,0.3,0.1,0.5,0.1,Nothing special
+284,55,Female,Civil_Servant,Regular,8,3,20.1,10,0.1,0.4,0.1,0.3,The milk tea is very delicious and rich in flavor
+285,57,Male,Office_Worker,Regular,8,0,46.6,1,0.5,0.0,0.2,0.3,Great value for money
+286,37,Female,Engineer,Regular,2,1,18.9,3,0.1,0.0,0.1,0.8,The taste is excellent
+287,52,Male,Student,Gold,12,0,32.4,5,0.1,0.4,0.3,0.2,The taste is excellent
+288,42,Female,Entrepreneur,Gold,14,13,28.0,6,0.2,0.2,0.6,0.1,Poor service attitude
+289,52,Female,Freelancer,Regular,4,3,38.0,3,0.2,0.6,0.1,0.2,The taste is ordinary
+290,42,Female,Freelancer,Regular,14,4,40.6,6,0.2,0.6,0.2,0.1,The taste is ordinary
+291,46,Female,Student,Gold,11,4,25.3,4,0.4,0.0,0.1,0.5,Poor service attitude
+292,35,Female,Civil_Servant,Regular,7,7,17.5,5,0.1,0.6,0.3,0.0,Great value for money
+293,63,Male,Student,Regular,11,10,29.6,7,0.4,0.1,0.5,0.1,Waiting time is too long
+294,35,Female,Office_Worker,Platinum,4,0,18.2,5,0.1,0.2,0.4,0.3,Not bad
+295,19,Male,Student,Gold,4,0,45.1,4,0.3,0.2,0.3,0.2,The milk tea is not fresh
+296,52,Male,Freelancer,Gold,6,2,26.4,5,0.4,0.0,0.4,0.3,I like the atmosphere here
+297,33,Male,Engineer,Gold,10,2,21.3,5,0.1,0.4,0.1,0.4,Too expensive
+298,58,Male,Student,Regular,6,2,26.8,4,0.9,0.0,0.1,0.0,I like the atmosphere here
+299,53,Male,Civil_Servant,Gold,10,3,11.5,4,0.2,0.2,0.5,0.1,Great value for money
+300,50,Female,Engineer,Regular,3,3,15.3,10,0.5,0.1,0.3,0.1,Nothing special
+301,21,Female,Entrepreneur,Regular,9,5,37.0,7,0.2,0.3,0.4,0.0,Great value for money
+302,50,Female,Teacher,Regular,12,7,18.4,4,0.1,0.5,0.2,0.3,Acceptable
+303,31,Female,Student,Regular,10,0,14.5,7,0.2,0.1,0.1,0.6,Not bad
+304,38,Male,Civil_Servant,Gold,14,7,30.4,4,0.1,0.2,0.2,0.5,Nothing special
+305,37,Female,Engineer,Regular,11,3,36.9,9,0.0,0.1,0.1,0.8,I like the atmosphere here
+306,25,Female,Civil_Servant,Regular,2,2,32.2,6,0.0,0.1,0.1,0.8,The milk tea is very delicious and rich in flavor
+307,24,Male,Entrepreneur,Regular,6,0,35.0,5,0.0,0.3,0.2,0.5,The taste is excellent
+308,20,Male,Freelancer,Regular,12,7,17.4,6,0.3,0.6,0.0,0.1,Not bad
+309,34,Female,Civil_Servant,Gold,7,3,10.8,0,0.4,0.1,0.5,0.0,I like the atmosphere here
+310,50,Female,Engineer,Regular,12,5,40.0,2,0.1,0.3,0.4,0.2,Great value for money
+311,29,Male,Civil_Servant,Gold,13,7,21.8,1,0.0,0.0,0.3,0.7,Great value for money
+312,39,Female,Civil_Servant,Regular,9,3,22.5,5,0.2,0.2,0.0,0.6,The milk tea is very delicious and rich in flavor
+313,39,Female,Civil_Servant,Regular,13,13,38.3,10,0.1,0.0,0.1,0.7,Acceptable
+314,63,Female,Office_Worker,Gold,3,2,30.6,12,0.0,0.9,0.0,0.0,The taste is average
+315,47,Female,Office_Worker,Regular,10,8,29.6,7,0.0,0.2,0.4,0.4,Very friendly service
+316,55,Male,Freelancer,Gold,3,2,46.7,7,0.5,0.1,0.3,0.1,Acceptable
+317,55,Male,Student,Regular,7,0,18.6,0,0.5,0.3,0.2,0.0,The taste is ordinary
+318,62,Male,Civil_Servant,Regular,14,12,34.3,3,0.1,0.7,0.1,0.2,Not bad
+319,25,Female,Entrepreneur,Platinum,4,1,25.6,3,0.2,0.2,0.6,0.0,The taste is ordinary
+320,44,Female,Student,Regular,13,13,27.7,3,0.3,0.1,0.2,0.4,Not bad
+321,44,Female,Entrepreneur,Regular,8,1,40.3,4,0.5,0.2,0.1,0.2,Average taste
+322,51,Female,Student,Gold,13,1,30.1,4,0.3,0.4,0.2,0.1,The milk tea is very delicious and rich in flavor
+323,38,Female,Freelancer,Regular,7,5,30.4,-1,0.2,0.2,0.5,0.2,The taste is ordinary
+324,47,Male,Civil_Servant,Gold,5,2,35.7,7,0.1,0.3,0.0,0.6,The taste is ordinary
+325,50,Female,Civil_Servant,Regular,7,7,21.4,2,0.0,0.6,0.1,0.3,The milk tea is very delicious and rich in flavor
+326,45,Female,Teacher,Platinum,3,0,16.6,6,0.1,0.4,0.4,0.1,Great value for money
+327,64,Male,Entrepreneur,Gold,12,8,14.6,11,0.3,0.4,0.0,0.3,Poor service attitude
+328,50,Female,Student,Gold,2,0,5.3,2,0.2,0.0,0.0,0.7,Not bad
+329,22,Male,Student,Platinum,6,3,45.6,-3,0.5,0.2,0.2,0.0,Average taste
+330,36,Male,Office_Worker,Regular,2,0,14.0,4,0.5,0.2,0.2,0.1,The taste is average
+331,21,Male,Teacher,Platinum,3,1,22.8,8,0.1,0.6,0.2,0.1,The taste is ordinary
+332,52,Male,Engineer,Regular,6,4,22.2,11,0.2,0.1,0.7,0.0,Acceptable
+333,34,Male,Engineer,Regular,5,3,28.1,1,0.3,0.1,0.3,0.3,Nothing special
+334,61,Female,Office_Worker,Regular,8,7,33.2,6,0.5,0.2,0.0,0.3,The milk tea is not fresh
+335,45,Male,Office_Worker,Regular,9,7,33.6,4,0.4,0.1,0.5,0.0,Not bad
+336,47,Male,Office_Worker,Regular,11,6,19.2,5,0.3,0.0,0.1,0.5,Not bad
+337,46,Female,Entrepreneur,Gold,3,2,23.3,13,0.1,0.2,0.1,0.6,Great value for money
+338,63,Female,Entrepreneur,Gold,12,0,27.8,0,0.3,0.0,0.2,0.5,Poor service attitude
+339,23,Male,Freelancer,Platinum,10,0,22.5,6,0.1,0.3,0.3,0.3,The taste is ordinary
+340,52,Female,Freelancer,Regular,3,3,41.1,6,0.4,0.0,0.0,0.6,Very friendly service
+341,58,Female,Office_Worker,Gold,3,3,29.9,8,0.7,0.2,0.0,0.1,The milk tea is not fresh
+342,54,Male,Teacher,Regular,13,10,32.3,5,0.2,0.3,0.2,0.3,Average taste
+343,41,Male,Student,Regular,13,2,31.6,6,0.3,0.3,0.5,0.0,The milk tea is very delicious and rich in flavor
+344,46,Female,Entrepreneur,Regular,6,5,36.7,4,0.2,0.4,0.3,0.0,Average taste
+345,63,Male,Teacher,Regular,1,0,26.8,6,0.1,0.2,0.7,0.1,Not bad
+346,48,Male,Civil_Servant,Gold,7,5,12.0,4,0.2,0.2,0.2,0.4,The milk tea is not fresh
+347,52,Female,Entrepreneur,Regular,12,5,29.0,7,0.7,0.1,0.1,0.1,I like the atmosphere here
+348,50,Male,Entrepreneur,Regular,1,1,18.5,4,0.5,0.4,0.0,0.0,Waiting time is too long
+349,38,Male,Freelancer,Regular,14,12,19.7,6,0.7,0.0,0.0,0.3,Average taste
+350,49,Male,Student,Regular,5,2,30.9,5,0.0,0.9,0.1,0.0,The milk tea is very delicious and rich in flavor
+351,40,Male,Student,Regular,10,5,37.4,8,0.3,0.3,0.2,0.2,Poor service attitude
+352,50,Male,Engineer,Platinum,13,7,25.2,5,0.3,0.2,0.5,0.0,Average taste
+353,20,Female,Engineer,Regular,8,1,28.1,0,0.0,0.5,0.4,0.0,The taste is excellent
+354,35,Female,Engineer,Regular,4,4,42.0,9,0.1,0.1,0.3,0.5,Not bad
+355,42,Male,Engineer,Regular,5,5,27.4,2,0.1,0.1,0.6,0.2,The milk tea is not fresh
+356,59,Female,Civil_Servant,Gold,4,0,51.0,3,0.6,0.2,0.1,0.1,The taste is excellent
+357,48,Male,Civil_Servant,Platinum,12,11,30.7,3,0.5,0.2,0.1,0.2,I like the atmosphere here
+358,20,Male,Entrepreneur,Gold,12,0,7.4,9,0.1,0.3,0.2,0.4,Very friendly service
+359,57,Male,Office_Worker,Gold,14,4,32.5,-1,0.1,0.0,0.4,0.4,The taste is excellent
+360,63,Male,Freelancer,Regular,4,3,28.8,14,0.6,0.4,0.1,0.0,Nothing special
+361,41,Male,Freelancer,Regular,12,12,37.9,8,0.0,0.4,0.3,0.3,Not bad
+362,49,Female,Engineer,Platinum,8,2,31.7,6,0.1,0.3,0.1,0.5,I like the atmosphere here
+363,64,Female,Entrepreneur,Gold,2,2,23.6,5,0.3,0.1,0.4,0.1,I like the atmosphere here
+364,39,Male,Teacher,Gold,1,1,12.8,6,0.1,0.3,0.5,0.1,Great value for money
+365,40,Female,Office_Worker,Gold,3,0,22.9,7,0.2,0.2,0.5,0.2,Too expensive
+366,19,Male,Entrepreneur,Gold,9,0,16.5,7,0.2,0.1,0.0,0.6,Great value for money
+367,44,Female,Office_Worker,Gold,4,3,19.2,7,0.3,0.4,0.1,0.2,Poor service attitude
+368,59,Male,Office_Worker,Platinum,10,4,30.9,5,0.3,0.4,0.3,0.0,Average taste
+369,19,Female,Office_Worker,Platinum,5,5,41.7,4,0.3,0.5,0.2,0.0,I like the atmosphere here
+370,43,Male,Entrepreneur,Gold,2,2,28.9,5,0.0,0.5,0.1,0.4,The taste is average
+371,34,Male,Engineer,Gold,4,3,13.0,4,0.0,0.1,0.7,0.1,Not bad
+372,57,Female,Freelancer,Regular,2,0,29.4,8,0.4,0.1,0.3,0.1,The taste is ordinary
+373,50,Female,Freelancer,Gold,2,0,37.0,7,0.1,0.3,0.5,0.1,Poor service attitude
+374,26,Male,Engineer,Regular,4,4,18.9,-4,0.4,0.1,0.4,0.1,The milk tea is very delicious and rich in flavor
+375,60,Female,Office_Worker,Regular,6,0,23.7,7,0.5,0.2,0.1,0.2,Very friendly service
+376,56,Male,Teacher,Platinum,7,5,25.1,6,0.1,0.2,0.2,0.5,Nothing special
+377,46,Female,Student,Regular,10,4,17.2,5,0.1,0.0,0.5,0.4,The taste is excellent
+378,59,Female,Entrepreneur,Regular,3,2,31.5,4,0.5,0.2,0.2,0.0,I like the atmosphere here
+379,43,Male,Student,Regular,3,2,23.8,8,0.5,0.4,0.1,0.0,The milk tea is very delicious and rich in flavor
+380,52,Female,Engineer,Regular,10,0,29.2,8,0.6,0.1,0.1,0.2,The milk tea is very delicious and rich in flavor
+381,42,Female,Teacher,Gold,6,3,16.1,3,0.2,0.6,0.2,0.1,Nothing special
+382,41,Male,Entrepreneur,Regular,13,12,20.6,6,0.2,0.3,0.0,0.5,Very friendly service
+383,30,Female,Engineer,Regular,12,4,32.2,2,0.0,0.1,0.8,0.0,Not bad
+384,24,Male,Office_Worker,Regular,3,3,21.3,1,0.8,0.0,0.1,0.1,Acceptable
+385,53,Male,Freelancer,Gold,13,6,42.3,3,0.6,0.3,0.0,0.1,Not bad
+386,62,Male,Student,Gold,2,0,21.0,8,0.1,0.2,0.3,0.4,The milk tea is very delicious and rich in flavor
+387,37,Male,Civil_Servant,Regular,8,2,27.2,8,0.2,0.7,0.0,0.1,Nothing special
+388,18,Male,Civil_Servant,Regular,5,1,34.3,7,0.1,0.4,0.1,0.4,The milk tea is very delicious and rich in flavor
+389,25,Female,Teacher,Regular,1,0,10.8,7,0.2,0.4,0.2,0.2,Nothing special
+390,63,Male,Office_Worker,Gold,3,1,7.4,7,0.3,0.2,0.1,0.4,The taste is average
+391,33,Male,Student,Gold,10,5,9.7,3,0.3,0.3,0.4,0.0,Not bad
+392,31,Female,Office_Worker,Regular,8,2,37.6,6,0.0,0.1,0.3,0.5,Average taste
+393,29,Female,Student,Regular,4,1,19.5,7,0.1,0.1,0.3,0.5,Not bad
+394,40,Female,Teacher,Regular,14,14,50.6,7,0.7,0.1,0.1,0.1,Great value for money
+395,32,Male,Teacher,Gold,7,5,19.4,9,0.3,0.2,0.1,0.4,The taste is average
+396,45,Male,Civil_Servant,Regular,10,6,26.8,7,0.2,0.6,0.1,0.0,The taste is average
+397,51,Male,Office_Worker,Regular,12,1,40.4,6,0.0,0.1,0.3,0.6,Great value for money
+398,19,Female,Entrepreneur,Regular,14,14,45.1,8,0.7,0.1,0.0,0.1,Acceptable
+399,49,Male,Civil_Servant,Regular,14,10,45.6,5,0.5,0.3,0.0,0.1,Too expensive
+400,40,Female,Office_Worker,Gold,2,1,37.1,2,0.1,0.1,0.6,0.2,Poor service attitude
+401,39,Male,Civil_Servant,Regular,7,1,35.2,5,0.1,0.3,0.6,0.1,Average taste
+402,42,Female,Entrepreneur,Gold,5,1,30.9,3,0.0,0.4,0.0,0.6,Not bad
+403,39,Male,Freelancer,Gold,5,0,32.8,3,0.1,0.7,0.2,0.0,The taste is excellent
+404,39,Male,Freelancer,Regular,6,0,19.5,5,0.2,0.2,0.5,0.2,Too expensive
+405,59,Male,Freelancer,Regular,13,8,16.8,3,0.4,0.2,0.3,0.1,Very friendly service
+406,23,Female,Freelancer,Gold,9,5,25.0,4,0.1,0.0,0.2,0.6,Acceptable
+407,32,Female,Engineer,Regular,14,6,23.3,-1,0.5,0.3,0.2,0.1,The taste is excellent
+408,60,Male,Student,Regular,6,4,20.5,6,0.2,0.3,0.3,0.3,The taste is excellent
+409,54,Male,Engineer,Platinum,12,9,32.0,5,0.2,0.1,0.6,0.1,Not bad
+410,50,Male,Engineer,Regular,13,6,34.6,3,0.2,0.1,0.5,0.2,Poor service attitude
+411,25,Female,Engineer,Regular,14,9,25.9,7,0.3,0.1,0.4,0.1,The milk tea is very delicious and rich in flavor
+412,61,Male,Freelancer,Regular,8,2,39.8,8,0.2,0.1,0.7,0.1,Acceptable
+413,61,Male,Entrepreneur,Platinum,7,1,13.6,0,0.2,0.7,0.0,0.1,Very friendly service
+414,22,Male,Teacher,Regular,9,8,23.1,3,0.0,0.2,0.1,0.6,Very friendly service
+415,56,Male,Teacher,Regular,4,4,17.8,3,0.2,0.3,0.5,0.1,Not bad
+416,21,Female,Student,Regular,2,1,6.3,2,0.3,0.0,0.2,0.4,Average taste
+417,23,Female,Freelancer,Regular,7,6,24.2,7,0.7,0.0,0.3,0.0,The taste is excellent
+418,62,Male,Freelancer,Regular,6,0,23.8,4,0.2,0.3,0.0,0.5,The taste is excellent
+419,49,Male,Freelancer,Regular,1,1,40.1,4,0.3,0.1,0.1,0.5,Very friendly service
+420,47,Female,Civil_Servant,Regular,11,3,31.3,-1,0.1,0.2,0.5,0.2,The taste is excellent
+421,64,Female,Office_Worker,Regular,9,0,14.8,7,0.3,0.1,0.5,0.1,Poor service attitude
+422,52,Male,Civil_Servant,Regular,9,7,43.5,1,0.3,0.5,0.1,0.1,Too expensive
+423,57,Female,Office_Worker,Regular,12,11,37.2,5,0.8,0.1,0.2,0.0,Great value for money
+424,33,Female,Freelancer,Regular,2,2,30.8,6,0.3,0.1,0.5,0.2,Acceptable
+425,30,Male,Freelancer,Regular,3,2,22.7,9,0.3,0.2,0.1,0.4,The taste is average
+426,59,Female,Civil_Servant,Gold,5,3,15.4,1,0.2,0.1,0.6,0.1,The milk tea is very delicious and rich in flavor
+427,47,Female,Civil_Servant,Regular,5,1,21.3,-4,0.1,0.0,0.4,0.5,Waiting time is too long
+428,36,Male,Office_Worker,Regular,1,1,35.9,6,0.1,0.5,0.1,0.3,Too expensive
+429,34,Male,Teacher,Regular,8,6,43.8,10,0.0,0.4,0.1,0.5,Very friendly service
+430,36,Female,Office_Worker,Gold,12,5,40.4,9,0.0,0.7,0.0,0.3,I like the atmosphere here
+431,45,Male,Civil_Servant,Gold,8,2,20.1,6,0.4,0.1,0.4,0.1,Poor service attitude
+432,43,Female,Entrepreneur,Regular,4,0,13.8,4,0.3,0.1,0.2,0.4,Average taste
+433,54,Male,Civil_Servant,Regular,13,9,26.4,7,0.1,0.2,0.3,0.4,The milk tea is very delicious and rich in flavor
+434,43,Female,Entrepreneur,Platinum,7,6,7.3,2,0.2,0.6,0.1,0.1,The taste is excellent
+435,40,Male,Student,Regular,11,5,28.2,6,0.1,0.3,0.3,0.4,Not bad
+436,26,Female,Civil_Servant,Regular,10,9,23.5,7,0.1,0.3,0.0,0.6,The taste is ordinary
+437,29,Female,Student,Regular,3,1,20.3,8,0.2,0.0,0.3,0.5,Nothing special
+438,18,Female,Teacher,Regular,6,5,9.1,13,0.5,0.1,0.4,0.0,Poor service attitude
+439,18,Male,Office_Worker,Platinum,14,0,30.1,6,0.4,0.0,0.5,0.1,The taste is excellent
+440,64,Male,Entrepreneur,Gold,10,3,19.7,3,0.4,0.2,0.3,0.2,Average taste
+441,51,Female,Office_Worker,Regular,13,9,13.3,5,0.2,0.8,0.0,0.1,Average taste
+442,49,Female,Student,Regular,10,5,25.9,0,0.2,0.5,0.1,0.2,Not bad
+443,42,Male,Entrepreneur,Platinum,12,5,24.7,3,0.0,0.1,0.2,0.7,I like the atmosphere here
+444,57,Male,Office_Worker,Gold,14,10,42.7,4,0.0,0.2,0.1,0.8,Poor service attitude
+445,62,Male,Civil_Servant,Gold,9,4,41.6,3,0.0,0.5,0.4,0.0,The milk tea is not fresh
+446,18,Male,Freelancer,Platinum,1,0,20.4,5,0.2,0.2,0.2,0.4,Average taste
+447,33,Male,Student,Platinum,5,4,19.0,3,0.3,0.0,0.0,0.6,Acceptable
+448,56,Male,Office_Worker,Gold,4,3,29.7,8,0.2,0.1,0.5,0.1,I like the atmosphere here
+449,22,Female,Student,Regular,8,4,15.0,5,0.0,0.1,0.7,0.2,Average taste
+450,39,Male,Engineer,Regular,11,6,28.0,5,0.2,0.2,0.0,0.6,The taste is ordinary
+451,46,Female,Student,Gold,12,3,32.7,4,0.4,0.2,0.2,0.2,Average taste
+452,20,Male,Entrepreneur,Regular,1,1,37.3,5,0.3,0.4,0.2,0.2,Poor service attitude
+453,29,Male,Engineer,Gold,9,3,24.0,7,0.4,0.2,0.2,0.2,Acceptable
+454,43,Female,Entrepreneur,Regular,6,5,23.0,2,0.2,0.1,0.1,0.6,Great value for money
+455,33,Female,Freelancer,Regular,4,2,16.2,3,0.5,0.2,0.2,0.1,Nothing special
+456,54,Male,Engineer,Regular,12,6,16.7,4,0.1,0.2,0.4,0.3,I like the atmosphere here
+457,39,Female,Civil_Servant,Regular,9,7,22.7,1,0.1,0.3,0.2,0.4,Great value for money
+458,46,Female,Student,Platinum,11,3,28.7,3,0.1,0.2,0.0,0.6,Great value for money
+459,31,Female,Office_Worker,Gold,5,4,34.1,4,0.2,0.6,0.2,0.0,Not bad
+460,45,Female,Teacher,Gold,5,1,17.0,8,0.3,0.4,0.1,0.2,Nothing special
+461,22,Male,Student,Gold,12,11,39.9,6,0.2,0.1,0.7,0.0,Average taste
+462,64,Female,Student,Regular,5,1,22.3,6,0.3,0.0,0.6,0.1,Nothing special
+463,47,Male,Freelancer,Regular,1,1,24.8,8,0.5,0.3,0.0,0.2,Acceptable
+464,63,Male,Civil_Servant,Regular,1,0,17.5,5,0.3,0.5,0.1,0.1,Great value for money
+465,22,Male,Teacher,Regular,8,0,0.8,6,0.1,0.5,0.2,0.1,Waiting time is too long
+466,29,Male,Engineer,Regular,12,7,33.8,5,0.2,0.7,0.1,0.0,I like the atmosphere here
+467,33,Female,Engineer,Regular,8,2,32.4,6,0.1,0.3,0.5,0.2,I like the atmosphere here
+468,43,Female,Engineer,Regular,12,11,22.2,3,0.5,0.4,0.1,0.1,Average taste
+469,43,Male,Entrepreneur,Platinum,6,1,25.7,-2,0.1,0.0,0.1,0.8,The taste is excellent
+470,38,Male,Entrepreneur,Gold,12,6,30.2,5,0.8,0.0,0.1,0.1,The milk tea is very delicious and rich in flavor
+471,56,Male,Office_Worker,Regular,11,9,9.4,9,0.1,0.1,0.5,0.2,The taste is ordinary
+472,53,Male,Teacher,Gold,13,4,19.7,8,0.1,0.2,0.6,0.1,Average taste
+473,50,Female,Engineer,Gold,4,1,32.9,8,0.4,0.4,0.1,0.1,Not bad
+474,47,Male,Entrepreneur,Regular,2,0,12.5,9,0.3,0.2,0.1,0.5,Poor service attitude
+475,54,Female,Office_Worker,Gold,14,13,27.9,5,0.7,0.1,0.1,0.1,Acceptable
+476,40,Male,Civil_Servant,Gold,2,2,11.4,6,0.2,0.3,0.3,0.2,The milk tea is not fresh
+477,27,Male,Office_Worker,Regular,9,8,29.7,3,0.4,0.0,0.2,0.4,Very friendly service
+478,22,Male,Entrepreneur,Regular,5,3,24.6,4,0.2,0.1,0.6,0.0,Acceptable
+479,53,Male,Freelancer,Regular,4,4,8.8,7,0.1,0.2,0.4,0.3,The milk tea is not fresh
+480,51,Female,Freelancer,Regular,10,0,36.6,9,0.1,0.4,0.2,0.3,Acceptable
+481,48,Female,Engineer,Regular,13,9,17.7,5,0.1,0.7,0.1,0.1,The taste is ordinary
+482,27,Female,Freelancer,Gold,1,1,16.9,4,0.1,0.1,0.8,0.0,Great value for money
+483,36,Male,Engineer,Regular,7,0,27.0,5,0.5,0.1,0.3,0.0,Very friendly service
+484,49,Male,Engineer,Regular,3,2,36.5,7,0.1,0.1,0.0,0.7,Not bad
+485,18,Female,Entrepreneur,Platinum,6,1,14.8,1,0.6,0.1,0.1,0.2,Great value for money
+486,22,Female,Freelancer,Gold,5,5,25.6,-2,0.2,0.6,0.2,0.1,The milk tea is not fresh
+487,62,Male,Engineer,Regular,5,5,29.3,3,0.4,0.5,0.1,0.0,The taste is excellent
+488,21,Male,Teacher,Regular,11,8,31.9,1,0.2,0.5,0.1,0.3,Poor service attitude
+489,33,Female,Civil_Servant,Regular,5,4,26.8,3,0.1,0.2,0.0,0.7,Too expensive
+490,41,Male,Office_Worker,Gold,1,0,21.3,5,0.1,0.5,0.2,0.1,The taste is excellent
+491,33,Male,Office_Worker,Regular,1,0,16.7,4,0.1,0.1,0.3,0.5,Great value for money
+492,19,Female,Entrepreneur,Regular,3,3,25.9,9,0.3,0.6,0.0,0.1,The taste is average
+493,45,Male,Freelancer,Platinum,14,12,14.3,6,0.2,0.2,0.1,0.5,Poor service attitude
+494,49,Female,Freelancer,Regular,12,6,25.9,6,0.2,0.1,0.2,0.5,Not bad
+495,44,Male,Engineer,Gold,10,4,29.4,7,0.1,0.2,0.6,0.1,Great value for money
+496,37,Female,Student,Platinum,4,4,34.0,2,0.0,0.6,0.1,0.2,Average taste
+497,41,Male,Engineer,Regular,5,2,1.4,8,0.3,0.0,0.3,0.3,The taste is ordinary
+498,29,Female,Civil_Servant,Gold,2,1,14.9,5,0.3,0.1,0.5,0.1,The taste is excellent
+499,52,Female,Teacher,Regular,8,2,31.2,7,0.3,0.5,0.1,0.1,Nothing special
+500,50,Female,Office_Worker,Platinum,11,4,45.6,2,0.2,0.2,0.1,0.6,The milk tea is very delicious and rich in flavor
+,,,,,,,,,,,,,
