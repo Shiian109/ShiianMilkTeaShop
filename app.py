@@ -3,7 +3,7 @@ import streamlit as st
 import streamlit_shadcn_ui as ui
 
 
-st.title('Shiian奶茶店数据(机密指数★★★★☆)')
+st.title('Shiian奶茶店数据(机密)')
 
 df1 = pd.read_csv('1_MilkTeaTransactions.csv')
 df2 = pd.read_csv('2_MilkTeaOperations.csv')
